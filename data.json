@@ -1,0 +1,43 @@
+[
+    {
+        "id": "1",
+        "german": "",
+        "article": "",
+        "english": "",
+        "plural": "",
+        "feminine": "",
+        "conjugation": [
+            {
+                "person": 1,
+                "form": ""
+            },
+            {
+                "person": 2,
+                "form": ""
+            },
+            {
+                "person": 3,
+                "form": ""
+            },
+            {
+                "person": 4,
+                "form": ""
+            },
+            {
+                "person": 5,
+                "form": ""
+            },
+            {
+                "person": 6,
+                "form": ""
+            }
+        ],
+        "examples": [
+            {
+                "english": "",
+                "german": ""
+            }
+        ],
+        "pastPerfect": ""
+    }
+]
