@@ -2,15 +2,14 @@
 var localStorageKey = 'words';
 
 async function loadData() {
-  if (!localStorage.getItem(localStorageKey)) {
-    try {
-      const response = await fetch('data.json');
-      const data = await response.json();
-      localStorage.setItem(localStorageKey, JSON.stringify(data));
-    } catch (error) {
-      console.error('Error loading data.json:', error);
-      localStorage.setItem(localStorageKey, JSON.stringify([]));
-    }
+  localStorage.removeItem(localStorageKey);
+  try {
+    const response = await fetch('data.json');
+    const data = await response.json();
+    localStorage.setItem(localStorageKey, JSON.stringify(data));
+  } catch (error) {
+    console.error('Error loading data.json:', error);
+    localStorage.setItem(localStorageKey, JSON.stringify([]));
   }
 }
 // Initialize

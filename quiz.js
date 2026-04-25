@@ -6,7 +6,7 @@ let currentLanguage = 'english'; // or 'german'
  allWords = JSON.parse(localStorage.getItem(localStorageKey)) || [];
 
 function populateBookOptions() {
-  const books = [...new Set(allWords.map(word => word.book).filter(book => book))];
+  const books = [...new Set(allWords.map(word => word.book))];
   const bookFilter = document.getElementById('bookFilter');
   bookFilter.innerHTML = '';
   books.forEach(book => {
