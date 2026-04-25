@@ -1,43 +1,45 @@
 [
     {
         "id": "1",
-        "german": "",
-        "article": "",
-        "english": "",
-        "plural": "",
-        "feminine": "",
+        "book": "A1.1",
+        "german": "asd",
+        "article": "qwe",
+        "english": "ff",
+        "plural": "bv",
+        "feminine": "hgh",
+        "difficultyLevel": "1",
         "conjugation": [
             {
                 "person": 1,
-                "form": ""
+                "form": "sre"
             },
             {
                 "person": 2,
-                "form": ""
+                "form": "afasd"
             },
             {
                 "person": 3,
-                "form": ""
+                "form": "asdcxc"
             },
             {
                 "person": 4,
-                "form": ""
+                "form": "  xcv"
             },
             {
                 "person": 5,
-                "form": ""
+                "form": "sdgfg"
             },
             {
                 "person": 6,
-                "form": ""
+                "form": "asdcxc"
             }
         ],
         "examples": [
             {
-                "english": "",
-                "german": ""
+                "english": "dsdscxcx",
+                "german": "sdsdstwt"
             }
         ],
-        "pastPerfect": ""
+        "pastPerfect": "asdasd asdasd"
     }
 ]
