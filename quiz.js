@@ -4,20 +4,6 @@ let shuffledWords = [];
 let currentIndex = 0;
 let currentLanguage = 'english'; // or 'german'
 
-async function loadWords() {
-  if (!localStorage.getItem(localStorageKey)) {
-    try {
-      const response = await fetch('data.json');
-      const data = await response.json();
-      localStorage.setItem(localStorageKey, JSON.stringify(data));
-    } catch (error) {
-      console.error('Error loading data.json:', error);
-      localStorage.setItem(localStorageKey, JSON.stringify([]));
-    }
-  }
-  allWords = JSON.parse(localStorage.getItem(localStorageKey)) || [];
-  populateBookOptions();
-}
 
 function populateBookOptions() {
   const books = [...new Set(allWords.map(word => word.book).filter(book => book))];
@@ -156,5 +142,4 @@ document.getElementById('prevBtn').addEventListener('click', function() {
   }
 });
 
-// Initialize
-loadWords();
+populateBookOptions();
