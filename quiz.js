@@ -3,7 +3,7 @@ let filteredWords = [];
 let shuffledWords = [];
 let currentIndex = 0;
 let currentLanguage = 'english'; // or 'german'
-
+ allWords = JSON.parse(localStorage.getItem(localStorageKey)) || [];
 
 function populateBookOptions() {
   const books = [...new Set(allWords.map(word => word.book).filter(book => book))];
