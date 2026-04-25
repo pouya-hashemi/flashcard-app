@@ -41,5 +41,49 @@
             }
         ],
         "pastPerfect": "asdasd asdasd"
+    },
+
+    {
+        "id": "1",
+        "book": "A1.1",
+        "german": "ttr",
+        "article": "qwe",
+        "english": "bbh",
+        "plural": "bv",
+        "feminine": "hgh",
+        "difficultyLevel": "1",
+        "conjugation": [
+            {
+                "person": 1,
+                "form": "sre"
+            },
+            {
+                "person": 2,
+                "form": "afasd"
+            },
+            {
+                "person": 3,
+                "form": "asdcxc"
+            },
+            {
+                "person": 4,
+                "form": "  xcv"
+            },
+            {
+                "person": 5,
+                "form": "sdgfg"
+            },
+            {
+                "person": 6,
+                "form": "asdcxc"
+            }
+        ],
+        "examples": [
+            {
+                "english": "dsdscxcx",
+                "german": "sdsdstwt"
+            }
+        ],
+        "pastPerfect": "asdasd asdasd"
     }
 ]
