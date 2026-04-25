@@ -40,6 +40,13 @@ function filterWords() {
   displayWord();
 }
 
+function updateNavigationButtons() {
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  prevBtn.disabled = currentIndex === 0;
+  nextBtn.disabled = currentIndex === shuffledWords.length - 1;
+}
+
 function displayWord() {
   if (shuffledWords.length === 0) {
     document.getElementById('wordCard').style.display = 'none';
@@ -58,6 +65,7 @@ function displayWord() {
 
   displayExamples(word);
   document.getElementById('wordCard').style.display = 'block';
+  updateNavigationButtons();
 }
 
 function displayExamples(word) {
@@ -129,16 +137,20 @@ document.getElementById('conjugationBtn').addEventListener('click', function() {
 });
 
 document.getElementById('nextBtn').addEventListener('click', function() {
-  if (shuffledWords.length > 0) {
-    currentIndex = (currentIndex + 1) % shuffledWords.length;
+  if (currentIndex < shuffledWords.length - 1) {
+    currentIndex++;
     displayWord();
+  } else {
+    alert('Quiz completed! You have reached the end.');
   }
 });
 
 document.getElementById('prevBtn').addEventListener('click', function() {
-  if (shuffledWords.length > 0) {
-    currentIndex = (currentIndex - 1 + shuffledWords.length) % shuffledWords.length;
+  if (currentIndex > 0) {
+    currentIndex--;
     displayWord();
+  } else {
+    alert('You are at the beginning of the quiz.');
   }
 });
 
