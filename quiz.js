@@ -111,7 +111,8 @@ document.getElementById('revealBtn').addEventListener('click', function() {
   const detailsDisplay = document.getElementById('detailsDisplay');
   detailsDisplay.innerHTML = `
     <hr>
-    <p><strong>Translation:</strong> ${word.english}</p>
+    <p><strong>English:</strong> ${word.english}</p>
+    <p><strong>German:</strong> ${word.german}</p>
     ${word.article ? `<p><strong>Article:</strong> ${word.article}</p>` : ''}
     ${word.plural ? `<p><strong>Plural:</strong> ${word.plural}</p>` : ''}
     ${word.feminine ? `<p><strong>Feminine:</strong> ${word.feminine}</p>` : ''}
