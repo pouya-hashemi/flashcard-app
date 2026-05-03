@@ -12,7 +12,8 @@
     "book": "A1.1",
     "level": "1",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 2,
@@ -27,7 +28,8 @@
     "book": "A1.1",
     "level": "1",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 3,
@@ -42,7 +44,8 @@
     "book": "A1.1",
     "level": "1",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 4,
@@ -57,7 +60,8 @@
     "book": "A1.1",
     "level": "1",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 5,
@@ -72,7 +76,8 @@
     "book": "A1.1",
     "level": "1",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 6,
@@ -125,7 +130,8 @@
         "german": "Jetzt kommt der Bus",
         "english": "The bus is comming now."
       }
-    ]
+    ],
+    "description": ""
   },
   {
     "id": 7,
@@ -140,7 +146,8 @@
     "book": "A1.1",
     "level": "1",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 8,
@@ -155,7 +162,8 @@
     "book": "A1.1",
     "level": "1",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 9,
@@ -170,7 +178,8 @@
     "book": "A1.1",
     "level": "1",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 10,
@@ -185,7 +194,8 @@
     "book": "A1.1",
     "level": "1",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 11,
@@ -200,7 +210,8 @@
     "book": "A1.1",
     "level": "1",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 12,
@@ -224,7 +235,8 @@
     "book": "A1.1",
     "level": "1",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 13,
@@ -239,12 +251,13 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 14,
     "german": "beruflich",
-    "word_class": "noun",
+    "word_class": "adjective",
     "article": "",
     "english": "Perfessionally",
     "plural": "",
@@ -254,7 +267,8 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 15,
@@ -269,7 +283,8 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 16,
@@ -284,7 +299,8 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 17,
@@ -299,7 +315,8 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 18,
@@ -314,7 +331,8 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 19,
@@ -329,7 +347,8 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 20,
@@ -349,7 +368,8 @@
         "german": "Wie alt bist du",
         "english": "how old are you"
       }
-    ]
+    ],
+    "description": ""
   },
   {
     "id": 21,
@@ -357,14 +377,15 @@
     "word_class": "noun",
     "article": "der",
     "english": "Father",
-    "plural": "",
+    "plural": "V\u00E4ter",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 22,
@@ -379,7 +400,8 @@
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 23,
@@ -387,14 +409,15 @@
     "word_class": "noun",
     "article": "der",
     "english": "Son",
-    "plural": "",
+    "plural": "S\u00F6hne",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 24,
@@ -409,7 +432,8 @@
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 25,
@@ -424,7 +448,8 @@
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 26,
@@ -432,14 +457,15 @@
     "word_class": "noun",
     "article": "die",
     "english": "Grand Daughter",
-    "plural": "",
+    "plural": "Enkelinnen",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 27,
@@ -479,7 +505,8 @@
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 28,
@@ -494,7 +521,8 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 29,
@@ -509,7 +537,8 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 30,
@@ -524,7 +553,8 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 31,
@@ -539,7 +569,8 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 32,
@@ -554,7 +585,8 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 33,
@@ -565,11 +597,50 @@
     "plural": "",
     "feminine": "",
     "pastPerfect": "Hat gefunden",
-    "conjugation": [],
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Finde"
+      },
+      {
+        "person": 2,
+        "form": "Findest"
+      },
+      {
+        "person": 3,
+        "form": "Findet"
+      },
+      {
+        "person": 4,
+        "form": "Finden"
+      },
+      {
+        "person": 5,
+        "form": "Findet"
+      },
+      {
+        "person": 6,
+        "form": "Finded"
+      }
+    ],
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [
+      {
+        "german": "Ich finde den Tisch sehr teuer.",
+        "english": "I find that table too expensive."
+      },
+      {
+        "german": "Ich finde den code sehr sauber.",
+        "english": "I find that code verz clean."
+      },
+      {
+        "german": "Ich habe meinen Schl\u00FCssel gefunden.",
+        "english": "I found my keys."
+      }
+    ],
+    "description": ""
   },
   {
     "id": 34,
@@ -584,7 +655,8 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 35,
@@ -599,7 +671,8 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 36,
@@ -614,7 +687,8 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 37,
@@ -629,7 +703,8 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 38,
@@ -644,7 +719,8 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 39,
@@ -659,7 +735,8 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 40,
@@ -674,7 +751,8 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 41,
@@ -689,7 +767,8 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 42,
@@ -704,7 +783,8 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 43,
@@ -719,7 +799,8 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 44,
@@ -727,14 +808,15 @@
     "word_class": "noun",
     "article": "der",
     "english": "Pencil",
-    "plural": "",
+    "plural": "Bleistifte",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 45,
@@ -742,14 +824,15 @@
     "word_class": "noun",
     "article": "die",
     "english": "Glasses",
-    "plural": "",
+    "plural": "Brillen",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 46,
@@ -757,14 +840,15 @@
     "word_class": "noun",
     "article": "das",
     "english": "Book",
-    "plural": "",
+    "plural": "B\u00FCcher",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 47,
@@ -772,14 +856,15 @@
     "word_class": "noun",
     "article": "die",
     "english": "Bottle",
-    "plural": "",
+    "plural": "Flaschen",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 48,
@@ -787,14 +872,15 @@
     "word_class": "noun",
     "article": "das",
     "english": "Lighter",
-    "plural": "",
+    "plural": "Feuerzeuge",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 49,
@@ -802,14 +888,15 @@
     "word_class": "noun",
     "article": "der",
     "english": "Camera",
-    "plural": "",
+    "plural": "Fotoapparate",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 50,
@@ -817,14 +904,15 @@
     "word_class": "noun",
     "article": "die",
     "english": "Necklace / chain",
-    "plural": "",
+    "plural": "Ketten",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 51,
@@ -832,14 +920,15 @@
     "word_class": "noun",
     "article": "der",
     "english": "Pen",
-    "plural": "",
+    "plural": "Kugelschreiber",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 52,
@@ -847,14 +936,15 @@
     "word_class": "noun",
     "article": "der",
     "english": "Key",
-    "plural": "",
+    "plural": "Schl\u00FCssel",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 53,
@@ -862,14 +952,15 @@
     "word_class": "noun",
     "article": "der",
     "english": "Plastic",
-    "plural": "",
+    "plural": "Kunststoffe",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 54,
@@ -884,7 +975,8 @@
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 55,
@@ -899,7 +991,8 @@
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 56,
@@ -914,7 +1007,8 @@
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 57,
@@ -929,7 +1023,8 @@
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 58,
@@ -944,7 +1039,8 @@
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 59,
@@ -954,12 +1050,38 @@
     "english": "To get - To receive",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Hat bekommen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Bekomme"
+      },
+      {
+        "person": 2,
+        "form": "Bekommst"
+      },
+      {
+        "person": 3,
+        "form": "Bekommt"
+      },
+      {
+        "person": 4,
+        "form": "Bekommen"
+      },
+      {
+        "person": 5,
+        "form": "Bekommt"
+      },
+      {
+        "person": 6,
+        "form": "Bekommen"
+      }
+    ],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 60,
@@ -974,7 +1096,8 @@
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 61,
@@ -982,14 +1105,15 @@
     "word_class": "noun",
     "article": "das",
     "english": "Paper",
-    "plural": "",
+    "plural": "Papiere",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 62,
@@ -997,14 +1121,15 @@
     "word_class": "noun",
     "article": "das",
     "english": "Wood",
-    "plural": "",
+    "plural": "H\u00F6lzer",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 63,
@@ -1012,14 +1137,15 @@
     "word_class": "noun",
     "article": "das",
     "english": "Metal",
-    "plural": "",
+    "plural": "Metalle",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 64,
@@ -1027,14 +1153,15 @@
     "word_class": "noun",
     "article": "das",
     "english": "Glass",
-    "plural": "",
+    "plural": "Gl\u00E4ser",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 65,
@@ -1042,14 +1169,15 @@
     "word_class": "noun",
     "article": "die",
     "english": "Clock",
-    "plural": "",
+    "plural": "Uhren",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 66,
@@ -1057,14 +1185,15 @@
     "word_class": "noun",
     "article": "der",
     "english": "Umbrella",
-    "plural": "",
+    "plural": "Schirme",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 67,
@@ -1072,14 +1201,15 @@
     "word_class": "noun",
     "article": "die",
     "english": "Soap",
-    "plural": "",
+    "plural": "Seifen",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 68,
@@ -1087,14 +1217,15 @@
     "word_class": "noun",
     "article": "das",
     "english": "Match",
-    "plural": "",
+    "plural": "Streichh\u00F6lzer",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 69,
@@ -1109,7 +1240,8 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 70,
@@ -1124,7 +1256,8 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 71,
@@ -1135,11 +1268,50 @@
     "plural": "",
     "feminine": "",
     "pastPerfect": "Hat gebraucht",
-    "conjugation": [],
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Brauche"
+      },
+      {
+        "person": 2,
+        "form": "Brauchst"
+      },
+      {
+        "person": 3,
+        "form": "Braucht"
+      },
+      {
+        "person": 4,
+        "form": "Brauchen"
+      },
+      {
+        "person": 5,
+        "form": "Braucht"
+      },
+      {
+        "person": 6,
+        "form": "Brauchen"
+      }
+    ],
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [
+      {
+        "german": "Ich brauche einen Kaffee",
+        "english": "I need a coffee"
+      },
+      {
+        "german": "Ich brauche neuen Laptop",
+        "english": "I need a new laptop."
+      },
+      {
+        "german": "Brauchst du etwas?",
+        "english": "Do you need anything?"
+      }
+    ],
+    "description": ""
   },
   {
     "id": 72,
@@ -1147,14 +1319,15 @@
     "word_class": "noun",
     "article": "die",
     "english": "City",
-    "plural": "",
+    "plural": "St\u00E4dte",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 73,
@@ -1162,14 +1335,15 @@
     "word_class": "noun",
     "article": "der",
     "english": "Workplace",
-    "plural": "",
+    "plural": "Arbeitspl\u00E4tze",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 74,
@@ -1179,12 +1353,47 @@
     "english": "To know",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "hat gewusst",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Wei\u00DF"
+      },
+      {
+        "person": 2,
+        "form": "Wei\u00DFt"
+      },
+      {
+        "person": 3,
+        "form": "Wei\u00DFt"
+      },
+      {
+        "person": 4,
+        "form": "wissen"
+      },
+      {
+        "person": 5,
+        "form": "wisst"
+      },
+      {
+        "person": 6,
+        "form": "wissen"
+      }
+    ],
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [
+      {
+        "german": "Ich wei\u00DF, dass der Code kaputt ist.",
+        "english": "I know the code is broken."
+      },
+      {
+        "german": "Ich wei\u00DF es nicht",
+        "english": "I don\u0027t know that"
+      }
+    ],
+    "description": ""
   },
   {
     "id": 75,
@@ -1192,14 +1401,15 @@
     "word_class": "noun",
     "article": "die",
     "english": "SMS",
-    "plural": "",
+    "plural": "SMS",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 76,
@@ -1207,14 +1417,15 @@
     "word_class": "noun",
     "article": "das",
     "english": "Form",
-    "plural": "",
+    "plural": "Formulare",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 77,
@@ -1229,7 +1440,8 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 78,
@@ -1239,12 +1451,43 @@
     "english": "To Drive",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Ist Gefahren",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Fahre"
+      },
+      {
+        "person": 2,
+        "form": "F\u00E4hrst"
+      },
+      {
+        "person": 3,
+        "form": "F\u00E4hrt"
+      },
+      {
+        "person": 4,
+        "form": "Fahren"
+      },
+      {
+        "person": 5,
+        "form": "Fahrt"
+      },
+      {
+        "person": 6,
+        "form": "Fahren"
+      }
+    ],
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [
+      {
+        "german": "Wir fahren mit dem Rad",
+        "english": "we drive with the bike."
+      }
+    ],
+    "description": ""
   },
   {
     "id": 79,
@@ -1254,12 +1497,38 @@
     "english": "To Cook",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Hat gekocht",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Koche"
+      },
+      {
+        "person": 2,
+        "form": "Kochst"
+      },
+      {
+        "person": 3,
+        "form": "Kocht"
+      },
+      {
+        "person": 4,
+        "form": "Kochen"
+      },
+      {
+        "person": 5,
+        "form": "Kocht"
+      },
+      {
+        "person": 6,
+        "form": "Kochen"
+      }
+    ],
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 80,
@@ -1269,165 +1538,369 @@
     "english": "To Sing",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Hat gesungen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Singe"
+      },
+      {
+        "person": 2,
+        "form": "Singst"
+      },
+      {
+        "person": 3,
+        "form": "Singt"
+      },
+      {
+        "person": 4,
+        "form": "Singen"
+      },
+      {
+        "person": 5,
+        "form": "Singt"
+      },
+      {
+        "person": 6,
+        "form": "Singen"
+      }
+    ],
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
     "id": 81,
-    "german": "Lesen",
-    "word_class": "verb",
-    "article": "",
-    "english": "To Read",
-    "plural": "",
-    "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
-    "book": "A1.1",
-    "level": "7",
-    "difficultyLevel": "",
-    "examples": []
-  },
-  {
-    "id": 82,
     "german": "Treffen",
     "word_class": "verb",
     "article": "",
     "english": "To Meet",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Hat getroffen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Treffe"
+      },
+      {
+        "person": 2,
+        "form": "Triffst"
+      },
+      {
+        "person": 3,
+        "form": "Trift"
+      },
+      {
+        "person": 4,
+        "form": "Treffen"
+      },
+      {
+        "person": 5,
+        "form": "Trefft"
+      },
+      {
+        "person": 6,
+        "form": "Treffen"
+      }
+    ],
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 83,
+    "id": 82,
     "german": "Surfen",
     "word_class": "verb",
     "article": "",
     "english": "To Surf",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Sein (sport)-Haben (internet) gesurft",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Surfe"
+      },
+      {
+        "person": 2,
+        "form": "Surfst"
+      },
+      {
+        "person": 3,
+        "form": "Surft"
+      },
+      {
+        "person": 4,
+        "form": "Surfen"
+      },
+      {
+        "person": 5,
+        "form": "Surft"
+      },
+      {
+        "person": 6,
+        "form": "Surfen"
+      }
+    ],
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 84,
+    "id": 83,
     "german": "Schwimmen",
     "word_class": "verb",
     "article": "",
     "english": "To Swim",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Ist geschwommen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Schwime"
+      },
+      {
+        "person": 2,
+        "form": "Schwimmst"
+      },
+      {
+        "person": 3,
+        "form": "Schwimmt"
+      },
+      {
+        "person": 4,
+        "form": "Schwimmen"
+      },
+      {
+        "person": 5,
+        "form": "Schwimmt"
+      },
+      {
+        "person": 6,
+        "form": "Schwimmen"
+      }
+    ],
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 85,
+    "id": 84,
     "german": "Fotogerafieren",
     "word_class": "verb",
     "article": "",
     "english": "To Photograph",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Hat fotografiert",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "fotografiere"
+      },
+      {
+        "person": 2,
+        "form": "fotografierst"
+      },
+      {
+        "person": 3,
+        "form": "fotografiert"
+      },
+      {
+        "person": 4,
+        "form": "fotografieren"
+      },
+      {
+        "person": 5,
+        "form": "fotografiert"
+      },
+      {
+        "person": 6,
+        "form": "fotografieren"
+      }
+    ],
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 86,
+    "id": 85,
     "german": "spielen",
     "word_class": "verb",
     "article": "",
     "english": "To Play",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Hat gespielt",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "spiele"
+      },
+      {
+        "person": 2,
+        "form": "spielst"
+      },
+      {
+        "person": 3,
+        "form": "spielt"
+      },
+      {
+        "person": 4,
+        "form": "spielen"
+      },
+      {
+        "person": 5,
+        "form": "spielt"
+      },
+      {
+        "person": 6,
+        "form": "spielen"
+      }
+    ],
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 87,
+    "id": 86,
     "german": "Malen",
     "word_class": "verb",
     "article": "",
     "english": "To Paint/ Draw",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Hat gemalt",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "male"
+      },
+      {
+        "person": 2,
+        "form": "malst"
+      },
+      {
+        "person": 3,
+        "form": "malt"
+      },
+      {
+        "person": 4,
+        "form": "malen"
+      },
+      {
+        "person": 5,
+        "form": "malt"
+      },
+      {
+        "person": 6,
+        "form": "malen"
+      }
+    ],
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 88,
+    "id": 87,
     "german": "Backen",
     "word_class": "verb",
     "article": "",
     "english": "To Bake",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Hat gebacken",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "backe"
+      },
+      {
+        "person": 2,
+        "form": "b\u00E4ckst (or backst)"
+      },
+      {
+        "person": 3,
+        "form": "b\u00E4ckt (or backt)"
+      },
+      {
+        "person": 4,
+        "form": "backen"
+      },
+      {
+        "person": 5,
+        "form": "backt"
+      },
+      {
+        "person": 6,
+        "form": "backen"
+      }
+    ],
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 89,
-    "german": "H\u00F6ren",
-    "word_class": "verb",
-    "article": "",
-    "english": "To listen",
-    "plural": "",
-    "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
-    "book": "A1.1",
-    "level": "7",
-    "difficultyLevel": "",
-    "examples": []
-  },
-  {
-    "id": 90,
+    "id": 88,
     "german": "Gehen",
     "word_class": "verb",
     "article": "",
     "english": "To Go / Walk",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Ist gegangen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "gehe"
+      },
+      {
+        "person": 2,
+        "form": "gehst"
+      },
+      {
+        "person": 3,
+        "form": "geht"
+      },
+      {
+        "person": 4,
+        "form": "gehen"
+      },
+      {
+        "person": 5,
+        "form": "geht"
+      },
+      {
+        "person": 6,
+        "form": "gehen"
+      }
+    ],
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 91,
+    "id": 89,
     "german": "Neu",
     "word_class": "adjective",
     "article": "",
@@ -1439,25 +1912,27 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 92,
+    "id": 90,
     "german": "Zeit",
     "word_class": "noun",
     "article": "die",
     "english": "Time",
-    "plural": "",
+    "plural": "Zeiten",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 93,
+    "id": 91,
     "german": "ins",
     "word_class": "noun",
     "article": "",
@@ -1469,40 +1944,77 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 94,
+    "id": 92,
     "german": "B\u00FCro",
     "word_class": "noun",
     "article": "das",
     "english": "office",
-    "plural": "",
+    "plural": "B\u00FCros",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 95,
+    "id": 93,
     "german": "Suchen",
     "word_class": "verb",
     "article": "",
     "english": "To search",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Hat gesucht",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Suche"
+      },
+      {
+        "person": 2,
+        "form": "Suchst"
+      },
+      {
+        "person": 3,
+        "form": "Sucht"
+      },
+      {
+        "person": 4,
+        "form": "Suchen"
+      },
+      {
+        "person": 5,
+        "form": "Sucht"
+      },
+      {
+        "person": 6,
+        "form": "Suchen"
+      }
+    ],
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [
+      {
+        "german": "Suchst du den Laptop",
+        "english": "Are zou looking for a Laptop"
+      },
+      {
+        "german": "Sie sucht ihren Bildschirm",
+        "english": "She is looking for her screen"
+      }
+    ],
+    "description": ""
   },
   {
-    "id": 96,
+    "id": 94,
     "german": "Da",
     "word_class": "adverb",
     "article": "",
@@ -1514,10 +2026,11 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 97,
+    "id": 95,
     "german": "Oft",
     "word_class": "adverb",
     "article": "",
@@ -1529,25 +2042,52 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 98,
+    "id": 96,
     "german": "Rauchen",
     "word_class": "verb",
     "article": "",
     "english": "To Smoke",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Hat geraucht",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "rauche"
+      },
+      {
+        "person": 2,
+        "form": "rauchst"
+      },
+      {
+        "person": 3,
+        "form": "raucht"
+      },
+      {
+        "person": 4,
+        "form": "rauchen"
+      },
+      {
+        "person": 5,
+        "form": "raucht"
+      },
+      {
+        "person": 6,
+        "form": "rauchen"
+      }
+    ],
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 99,
+    "id": 97,
     "german": "Nat\u00FCrlich",
     "word_class": "adverb",
     "article": "",
@@ -1559,14 +2099,15 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 100,
+    "id": 98,
     "german": "Leider",
     "word_class": "adverb",
     "article": "",
-    "english": "Unfortunatelz",
+    "english": "Unfortunately",
     "plural": "",
     "feminine": "",
     "pastPerfect": "",
@@ -1574,10 +2115,11 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 101,
+    "id": 99,
     "german": "Fast",
     "word_class": "adverb",
     "article": "",
@@ -1589,10 +2131,11 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 102,
+    "id": 100,
     "german": "Immer",
     "word_class": "adverb",
     "article": "",
@@ -1604,10 +2147,11 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 103,
+    "id": 101,
     "german": "Manchmal",
     "word_class": "adverb",
     "article": "",
@@ -1619,10 +2163,11 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 104,
+    "id": 102,
     "german": "Nie",
     "word_class": "adverb",
     "article": "",
@@ -1634,10 +2179,11 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 105,
+    "id": 103,
     "german": "lieber",
     "word_class": "adverb",
     "article": "",
@@ -1649,10 +2195,11 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 106,
+    "id": 104,
     "german": "Um",
     "word_class": "preposition",
     "article": "",
@@ -1664,25 +2211,61 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 107,
+    "id": 105,
     "german": "K\u00F6nnen",
     "word_class": "verb",
     "article": "",
     "english": "Can",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Hat gekonnt",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "kann"
+      },
+      {
+        "person": 2,
+        "form": "kannst"
+      },
+      {
+        "person": 3,
+        "form": "kann"
+      },
+      {
+        "person": 4,
+        "form": "k\u00F6nnen"
+      },
+      {
+        "person": 5,
+        "form": "k\u00F6nnt"
+      },
+      {
+        "person": 6,
+        "form": "k\u00F6nnen"
+      }
+    ],
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [
+      {
+        "german": "Ich kann wirklich garnicht Deutsch lernen",
+        "english": "I really can not even a bit learn German"
+      },
+      {
+        "german": "Ich kann ja sehr gut den Bug finden",
+        "english": "I can actually find this bug very well."
+      }
+    ],
+    "description": ""
   },
   {
-    "id": 108,
+    "id": 106,
     "german": "Natur",
     "word_class": "noun",
     "article": "die",
@@ -1694,40 +2277,93 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 109,
+    "id": 107,
     "german": "Wandern",
     "word_class": "verb",
     "article": "",
     "english": "Hike",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Ist gewandert",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "wandere"
+      },
+      {
+        "person": 2,
+        "form": "wanderst"
+      },
+      {
+        "person": 3,
+        "form": "wandert"
+      },
+      {
+        "person": 4,
+        "form": "wandern"
+      },
+      {
+        "person": 5,
+        "form": "wandert"
+      },
+      {
+        "person": 6,
+        "form": "wandern"
+      }
+    ],
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 110,
+    "id": 108,
     "german": "Schauen",
     "word_class": "verb",
     "article": "",
     "english": "To look - To watch",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "hat geschaut",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "schaue"
+      },
+      {
+        "person": 2,
+        "form": "schaust"
+      },
+      {
+        "person": 3,
+        "form": "schaut"
+      },
+      {
+        "person": 4,
+        "form": "schauen"
+      },
+      {
+        "person": 5,
+        "form": "schaut"
+      },
+      {
+        "person": 6,
+        "form": "schauen"
+      }
+    ],
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 111,
+    "id": 109,
     "german": "Uns",
     "word_class": "adverb",
     "article": "",
@@ -1739,10 +2375,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 112,
+    "id": 110,
     "german": "Bald",
     "word_class": "pronoun",
     "article": "",
@@ -1754,25 +2391,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 113,
-    "german": "Sehen",
-    "word_class": "verb",
-    "article": "",
-    "english": "See",
-    "plural": "",
-    "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
-    "book": "A1.1",
-    "level": "8",
-    "difficultyLevel": "",
-    "examples": []
-  },
-  {
-    "id": 114,
+    "id": 111,
     "german": "nach",
     "word_class": "preposition",
     "article": "",
@@ -1784,10 +2407,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 115,
+    "id": 112,
     "german": "noch",
     "word_class": "preposition",
     "article": "",
@@ -1799,25 +2423,27 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 116,
+    "id": 113,
     "german": "Lust",
     "word_class": "noun",
     "article": "die",
     "english": "Desire / feeling like",
-    "plural": "",
+    "plural": "L\u00FCste",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 117,
+    "id": 114,
     "german": "vor",
     "word_class": "preposition",
     "article": "",
@@ -1829,10 +2455,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 118,
+    "id": 115,
     "german": "halb",
     "word_class": "adverb",
     "article": "",
@@ -1844,10 +2471,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 119,
+    "id": 116,
     "german": "Morgen",
     "word_class": "noun",
     "article": "der",
@@ -1859,10 +2487,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 120,
+    "id": 117,
     "german": "H\u00F6flich",
     "word_class": "adjective",
     "article": "",
@@ -1874,10 +2503,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 121,
+    "id": 118,
     "german": "Unh\u00F6flich",
     "word_class": "adjective",
     "article": "",
@@ -1889,40 +2519,43 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 122,
+    "id": 119,
     "german": "Milch",
     "word_class": "noun",
     "article": "die",
     "english": "Milk",
-    "plural": "",
+    "plural": "Milche",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 123,
+    "id": 120,
     "german": "Butter",
     "word_class": "noun",
     "article": "die",
     "english": "Butter",
-    "plural": "",
+    "plural": "Buttersorten",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 124,
+    "id": 121,
     "german": "M\u00F6chten",
     "word_class": "verb",
     "article": "",
@@ -1930,14 +2563,40 @@
     "plural": "",
     "feminine": "",
     "pastPerfect": "",
-    "conjugation": [],
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "m\u00F6chte"
+      },
+      {
+        "person": 2,
+        "form": "m\u00F6chtest"
+      },
+      {
+        "person": 3,
+        "form": "m\u00F6chte"
+      },
+      {
+        "person": 4,
+        "form": "m\u00F6chten"
+      },
+      {
+        "person": 5,
+        "form": "m\u00F6chtet"
+      },
+      {
+        "person": 6,
+        "form": "m\u00F6chten"
+      }
+    ],
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 125,
+    "id": 122,
     "german": "Etwas",
     "word_class": "adverb",
     "article": "",
@@ -1949,40 +2608,93 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 126,
+    "id": 123,
     "german": "m\u00F6gen",
     "word_class": "verb",
     "article": "",
     "english": "Like",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Hat Gemocht",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "mag"
+      },
+      {
+        "person": 2,
+        "form": "magst"
+      },
+      {
+        "person": 3,
+        "form": "mag"
+      },
+      {
+        "person": 4,
+        "form": "m\u00F6gen"
+      },
+      {
+        "person": 5,
+        "form": "m\u00F6gt"
+      },
+      {
+        "person": 6,
+        "form": "m\u00F6gen"
+      }
+    ],
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 127,
+    "id": 124,
     "german": "Essen",
     "word_class": "verb",
     "article": "",
     "english": "Eat",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Hat gegessen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "esse"
+      },
+      {
+        "person": 2,
+        "form": "isst"
+      },
+      {
+        "person": 3,
+        "form": "isst"
+      },
+      {
+        "person": 4,
+        "form": "essen"
+      },
+      {
+        "person": 5,
+        "form": "esst"
+      },
+      {
+        "person": 6,
+        "form": "essen"
+      }
+    ],
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 128,
+    "id": 125,
     "german": "ebenfalls",
     "word_class": "adverb",
     "article": "",
@@ -1994,10 +2706,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 129,
+    "id": 126,
     "german": "Geschnetyelte",
     "word_class": "noun",
     "article": "das",
@@ -2009,10 +2722,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 130,
+    "id": 127,
     "german": "Sahne",
     "word_class": "noun",
     "article": "die",
@@ -2024,25 +2738,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 131,
-    "german": "Steigen",
-    "word_class": "verb",
-    "article": "",
-    "english": "Climbs - Gets in",
-    "plural": "",
-    "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
-    "book": "A1.1",
-    "level": "10",
-    "difficultyLevel": "",
-    "examples": []
-  },
-  {
-    "id": 132,
+    "id": 128,
     "german": "Gerade",
     "word_class": "adverb",
     "article": "",
@@ -2054,25 +2754,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 133,
-    "german": "zur\u00FCck",
-    "word_class": "adverb",
-    "article": "",
-    "english": "Back - return",
-    "plural": "",
-    "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
-    "book": "A1.1",
-    "level": "10",
-    "difficultyLevel": "",
-    "examples": []
-  },
-  {
-    "id": 134,
+    "id": 129,
     "german": "Vielleicht",
     "word_class": "adverb",
     "article": "",
@@ -2084,25 +2770,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 135,
-    "german": "Rufen",
-    "word_class": "verb",
-    "article": "",
-    "english": "Call",
-    "plural": "",
-    "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
-    "book": "A1.1",
-    "level": "10",
-    "difficultyLevel": "",
-    "examples": []
-  },
-  {
-    "id": 136,
+    "id": 130,
     "german": "Nehmen",
     "word_class": "verb",
     "article": "",
@@ -2114,10 +2786,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 137,
+    "id": 131,
     "german": "Brignen",
     "word_class": "verb",
     "article": "",
@@ -2129,145 +2802,262 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 138,
+    "id": 132,
     "german": "Abfahren",
     "word_class": "verb",
     "article": "",
     "english": "To Depart - To leave",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "ist abgefahren",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "fahre ... ab"
+      },
+      {
+        "person": 2,
+        "form": "f\u00E4hrst ... ab"
+      },
+      {
+        "person": 3,
+        "form": "f\u00E4hrt ... ab"
+      },
+      {
+        "person": 4,
+        "form": "fahren ... ab"
+      },
+      {
+        "person": 5,
+        "form": "fahrt ... ab"
+      },
+      {
+        "person": 6,
+        "form": "fahren ... ab"
+      }
+    ],
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [
+      {
+        "german": "Wo f\u00E4hrt der Zug nach M\u00FCnchen ab",
+        "english": "where the train to munich departs from?"
+      }
+    ],
+    "description": ""
   },
   {
-    "id": 139,
+    "id": 133,
     "german": "Abholen",
     "word_class": "verb",
     "article": "",
     "english": "To pick up",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Hat abgeholt",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "hole ... ab"
+      },
+      {
+        "person": 2,
+        "form": "holst ... ab"
+      },
+      {
+        "person": 3,
+        "form": "holt ... ab"
+      },
+      {
+        "person": 4,
+        "form": "holen ... ab"
+      },
+      {
+        "person": 5,
+        "form": "holt ... ab"
+      },
+      {
+        "person": 6,
+        "form": "holen ... ab"
+      }
+    ],
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 140,
+    "id": 134,
     "german": "MitBringen",
     "word_class": "verb",
     "article": "",
     "english": "To Bring With",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "Hat mitgebracht",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "bringe ... mit"
+      },
+      {
+        "person": 2,
+        "form": "bringst ... mit"
+      },
+      {
+        "person": 3,
+        "form": "bringt ... mit"
+      },
+      {
+        "person": 4,
+        "form": "bringen ... mit"
+      },
+      {
+        "person": 5,
+        "form": "bringt ... mit"
+      },
+      {
+        "person": 6,
+        "form": "bringen ... mit"
+      }
+    ],
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 141,
+    "id": 135,
     "german": "Ankommen",
     "word_class": "verb",
     "article": "",
     "english": "To Arrive",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "ist angekommen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "komme ... an"
+      },
+      {
+        "person": 2,
+        "form": "kommst ... an"
+      },
+      {
+        "person": 3,
+        "form": "kommt ... an"
+      },
+      {
+        "person": 4,
+        "form": "kommen ... an"
+      },
+      {
+        "person": 5,
+        "form": "kommt ... an"
+      },
+      {
+        "person": 6,
+        "form": "kommen ... an"
+      }
+    ],
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 142,
-    "german": "Einsteigen",
-    "word_class": "verb",
-    "article": "",
-    "english": "To Get on To board - to Enter (car)",
-    "plural": "",
-    "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
-    "book": "A1.1",
-    "level": "10",
-    "difficultyLevel": "",
-    "examples": []
-  },
-  {
-    "id": 143,
+    "id": 136,
     "german": "umsteigen",
     "word_class": "verb",
     "article": "",
     "english": "To change -  to transfer \u00DF To switch (Trains)",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "ist umgestiegen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "steige ... um"
+      },
+      {
+        "person": 2,
+        "form": "steigst ... um"
+      },
+      {
+        "person": 3,
+        "form": "steigt ... um"
+      },
+      {
+        "person": 4,
+        "form": "steigen ... um"
+      },
+      {
+        "person": 5,
+        "form": "steigt ... um"
+      },
+      {
+        "person": 6,
+        "form": "steigen ... um"
+      }
+    ],
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 144,
-    "german": "Aussteigen",
-    "word_class": "verb",
-    "article": "",
-    "english": "To get off - to exit",
-    "plural": "",
-    "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
-    "book": "A1.1",
-    "level": "10",
-    "difficultyLevel": "",
-    "examples": []
-  },
-  {
-    "id": 145,
+    "id": 137,
     "german": "fernsehen",
     "word_class": "verb",
     "article": "",
     "english": "To watch TV",
     "plural": "",
     "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
+    "pastPerfect": "hat ferngesehen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "sehe ... fern"
+      },
+      {
+        "person": 2,
+        "form": "siehst ... fern"
+      },
+      {
+        "person": 3,
+        "form": "sieht ... fern"
+      },
+      {
+        "person": 4,
+        "form": "sehen ... fern"
+      },
+      {
+        "person": 5,
+        "form": "seht ... fern"
+      },
+      {
+        "person": 6,
+        "form": "sehen ... fern"
+      }
+    ],
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 146,
-    "german": "anrufen",
-    "word_class": "verb",
-    "article": "",
-    "english": "To call (phone)",
-    "plural": "",
-    "feminine": "",
-    "pastPerfect": "",
-    "conjugation": [],
-    "book": "A1.1",
-    "level": "10",
-    "difficultyLevel": "",
-    "examples": []
-  },
-  {
-    "id": 147,
+    "id": 138,
     "german": "Gep\u00E4ck",
     "word_class": "noun",
     "article": "das",
@@ -2279,10 +3069,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 148,
+    "id": 139,
     "german": "Aal",
     "word_class": "noun",
     "article": "der",
@@ -2294,10 +3085,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 149,
+    "id": 140,
     "german": "Abend",
     "word_class": "noun",
     "article": "der",
@@ -2309,10 +3101,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 150,
+    "id": 141,
     "german": "alter",
     "word_class": "noun",
     "article": "das",
@@ -2324,10 +3117,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 151,
+    "id": 142,
     "german": "Apfel",
     "word_class": "noun",
     "article": "der",
@@ -2339,10 +3133,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 152,
+    "id": 143,
     "german": "Arbeitgeber",
     "word_class": "noun",
     "article": "der",
@@ -2354,10 +3149,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 153,
+    "id": 144,
     "german": "Architekt",
     "word_class": "noun",
     "article": "der",
@@ -2369,10 +3165,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 154,
+    "id": 145,
     "german": "Arzt",
     "word_class": "noun",
     "article": "der",
@@ -2384,10 +3181,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 155,
+    "id": 146,
     "german": "Auge",
     "word_class": "noun",
     "article": "das",
@@ -2399,10 +3197,11 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 156,
+    "id": 147,
     "german": "Ausbildung",
     "word_class": "noun",
     "article": "die",
@@ -2414,10 +3213,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 157,
+    "id": 148,
     "german": "Ausflug",
     "word_class": "noun",
     "article": "der",
@@ -2429,10 +3229,11 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 158,
+    "id": 149,
     "german": "Austellung",
     "word_class": "noun",
     "article": "die",
@@ -2444,10 +3245,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 159,
+    "id": 150,
     "german": "Bahnhof",
     "word_class": "noun",
     "article": "der",
@@ -2459,10 +3261,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 160,
+    "id": 151,
     "german": "Bahnsteig",
     "word_class": "noun",
     "article": "der",
@@ -2474,10 +3277,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 161,
+    "id": 152,
     "german": "Bar",
     "word_class": "noun",
     "article": "die",
@@ -2489,10 +3293,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 162,
+    "id": 153,
     "german": "Berg",
     "word_class": "noun",
     "article": "der",
@@ -2504,10 +3309,11 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 163,
+    "id": 154,
     "german": "beruf",
     "word_class": "noun",
     "article": "der",
@@ -2519,10 +3325,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 164,
+    "id": 155,
     "german": "Bett",
     "word_class": "noun",
     "article": "das",
@@ -2534,10 +3341,11 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 165,
+    "id": 156,
     "german": "Bild",
     "word_class": "noun",
     "article": "das",
@@ -2549,10 +3357,11 @@
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 166,
+    "id": 157,
     "german": "BildSchirm",
     "word_class": "noun",
     "article": "der",
@@ -2564,10 +3373,11 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 167,
+    "id": 158,
     "german": "Braten",
     "word_class": "noun",
     "article": "der",
@@ -2579,10 +3389,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 168,
+    "id": 159,
     "german": "Briefmarke",
     "word_class": "noun",
     "article": "die",
@@ -2594,10 +3405,11 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 169,
+    "id": 160,
     "german": "Brot",
     "word_class": "noun",
     "article": "das",
@@ -2609,10 +3421,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 170,
+    "id": 161,
     "german": "Bruder",
     "word_class": "noun",
     "article": "der",
@@ -2624,10 +3437,11 @@
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 171,
+    "id": 162,
     "german": "Bus",
     "word_class": "noun",
     "article": "der",
@@ -2639,10 +3453,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 172,
+    "id": 163,
     "german": "Cafe",
     "word_class": "noun",
     "article": "das",
@@ -2654,10 +3469,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 173,
+    "id": 164,
     "german": "Computer",
     "word_class": "noun",
     "article": "der",
@@ -2669,10 +3485,11 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 174,
+    "id": 165,
     "german": "Couch",
     "word_class": "noun",
     "article": "die",
@@ -2684,10 +3501,11 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 175,
+    "id": 166,
     "german": "Dessert",
     "word_class": "noun",
     "article": "das",
@@ -2699,10 +3517,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 176,
+    "id": 167,
     "german": "Disco",
     "word_class": "noun",
     "article": "die",
@@ -2714,10 +3533,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 177,
+    "id": 168,
     "german": "Drucker",
     "word_class": "noun",
     "article": "der",
@@ -2729,10 +3549,11 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 178,
+    "id": 169,
     "german": "E-Mail",
     "word_class": "noun",
     "article": "die",
@@ -2744,10 +3565,11 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 179,
+    "id": 170,
     "german": "Enkel",
     "word_class": "noun",
     "article": "der",
@@ -2759,10 +3581,11 @@
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 180,
+    "id": 171,
     "german": "Entwickler",
     "word_class": "noun",
     "article": "der",
@@ -2774,10 +3597,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 181,
+    "id": 172,
     "german": "Familienstand",
     "word_class": "noun",
     "article": "der",
@@ -2789,10 +3613,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 182,
+    "id": 173,
     "german": "Fisch",
     "word_class": "noun",
     "article": "der",
@@ -2804,10 +3629,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 183,
+    "id": 174,
     "german": "Flughafen",
     "word_class": "noun",
     "article": "der",
@@ -2819,10 +3645,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 184,
+    "id": 175,
     "german": "Flugzeug",
     "word_class": "noun",
     "article": "das",
@@ -2834,10 +3661,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 185,
+    "id": 176,
     "german": "Freund",
     "word_class": "noun",
     "article": "der",
@@ -2849,10 +3677,11 @@
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 186,
+    "id": 177,
     "german": "Friseur",
     "word_class": "noun",
     "article": "der",
@@ -2864,10 +3693,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 187,
+    "id": 178,
     "german": "Fr\u00FChst\u00FCck",
     "word_class": "noun",
     "article": "das",
@@ -2879,10 +3709,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 188,
+    "id": 179,
     "german": "Geldb\u00F6rse",
     "word_class": "noun",
     "article": "die",
@@ -2894,10 +3725,11 @@
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 189,
+    "id": 180,
     "german": "Gitarre",
     "word_class": "noun",
     "article": "die",
@@ -2909,10 +3741,11 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 190,
+    "id": 181,
     "german": "Gleis",
     "word_class": "noun",
     "article": "das",
@@ -2924,10 +3757,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 191,
+    "id": 182,
     "german": "Gr\u00FCtze",
     "word_class": "noun",
     "article": "die",
@@ -2939,10 +3773,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 192,
+    "id": 183,
     "german": "Haltestelle",
     "word_class": "noun",
     "article": "die",
@@ -2954,10 +3789,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 193,
+    "id": 184,
     "german": "hamburger",
     "word_class": "noun",
     "article": "der",
@@ -2969,10 +3805,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 194,
+    "id": 185,
     "german": "Handy",
     "word_class": "noun",
     "article": "das",
@@ -2984,10 +3821,11 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 195,
+    "id": 186,
     "german": "herkunft",
     "word_class": "noun",
     "article": "die",
@@ -2999,10 +3837,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 196,
+    "id": 187,
     "german": "Hilfe",
     "word_class": "noun",
     "article": "die",
@@ -3014,10 +3853,11 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 197,
+    "id": 188,
     "german": "Historiker",
     "word_class": "noun",
     "article": "der",
@@ -3029,10 +3869,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 198,
+    "id": 189,
     "german": "Ingenieur",
     "word_class": "noun",
     "article": "der",
@@ -3044,10 +3885,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 199,
+    "id": 190,
     "german": "Jahr",
     "word_class": "noun",
     "article": "das",
@@ -3059,10 +3901,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 200,
+    "id": 191,
     "german": "Journalist",
     "word_class": "noun",
     "article": "der",
@@ -3074,10 +3917,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 201,
+    "id": 192,
     "german": "Kalendar",
     "word_class": "noun",
     "article": "der",
@@ -3089,10 +3933,11 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 202,
+    "id": 193,
     "german": "Kartoffel",
     "word_class": "noun",
     "article": "die",
@@ -3104,10 +3949,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 203,
+    "id": 194,
     "german": "K\u00E4se",
     "word_class": "noun",
     "article": "der",
@@ -3119,10 +3965,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 204,
+    "id": 195,
     "german": "Kellner",
     "word_class": "noun",
     "article": "der",
@@ -3134,10 +3981,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 205,
+    "id": 196,
     "german": "Kind",
     "word_class": "noun",
     "article": "das",
@@ -3149,10 +3997,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 206,
+    "id": 197,
     "german": "kino",
     "word_class": "noun",
     "article": "das",
@@ -3164,10 +4013,11 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 207,
+    "id": 198,
     "german": "Kneipe",
     "word_class": "noun",
     "article": "die",
@@ -3179,10 +4029,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 208,
+    "id": 199,
     "german": "kn\u00F6del",
     "word_class": "noun",
     "article": "der",
@@ -3194,10 +4045,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 209,
+    "id": 200,
     "german": "Koffer",
     "word_class": "noun",
     "article": "der",
@@ -3209,10 +4061,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 210,
+    "id": 201,
     "german": "kollege",
     "word_class": "noun",
     "article": "der",
@@ -3224,10 +4077,11 @@
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 211,
+    "id": 202,
     "german": "Konzert",
     "word_class": "noun",
     "article": "das",
@@ -3239,10 +4093,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 212,
+    "id": 203,
     "german": "Kuchen",
     "word_class": "noun",
     "article": "der",
@@ -3254,10 +4109,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 213,
+    "id": 204,
     "german": "Lampe",
     "word_class": "noun",
     "article": "die",
@@ -3269,10 +4125,11 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 214,
+    "id": 205,
     "german": "Laptop",
     "word_class": "noun",
     "article": "der",
@@ -3284,10 +4141,11 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 215,
+    "id": 206,
     "german": "Leber",
     "word_class": "noun",
     "article": "die",
@@ -3299,10 +4157,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 216,
+    "id": 207,
     "german": "Lehrer",
     "word_class": "noun",
     "article": "der",
@@ -3314,10 +4173,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 217,
+    "id": 208,
     "german": "Luft",
     "word_class": "noun",
     "article": "die",
@@ -3329,10 +4189,11 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 218,
+    "id": 209,
     "german": "Maus",
     "word_class": "noun",
     "article": "die",
@@ -3344,10 +4205,11 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 219,
+    "id": 210,
     "german": "Mechatroniker",
     "word_class": "noun",
     "article": "der",
@@ -3359,10 +4221,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 220,
+    "id": 211,
     "german": "Mittag",
     "word_class": "noun",
     "article": "der",
@@ -3374,10 +4237,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 221,
+    "id": 212,
     "german": "Museum",
     "word_class": "noun",
     "article": "das",
@@ -3389,10 +4253,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 222,
+    "id": 213,
     "german": "Mutter",
     "word_class": "noun",
     "article": "die",
@@ -3404,10 +4269,11 @@
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 223,
+    "id": 214,
     "german": "nachmittag",
     "word_class": "noun",
     "article": "der",
@@ -3419,10 +4285,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 224,
+    "id": 215,
     "german": "Nacht",
     "word_class": "noun",
     "article": "die",
@@ -3434,10 +4301,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 225,
+    "id": 216,
     "german": "Neffe",
     "word_class": "noun",
     "article": "",
@@ -3449,10 +4317,11 @@
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 226,
+    "id": 217,
     "german": "Notizbuch",
     "word_class": "noun",
     "article": "das",
@@ -3464,10 +4333,11 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 227,
+    "id": 218,
     "german": "Nummer",
     "word_class": "noun",
     "article": "die",
@@ -3479,10 +4349,11 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 228,
+    "id": 219,
     "german": "Oma",
     "word_class": "noun",
     "article": "die",
@@ -3494,10 +4365,11 @@
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 229,
+    "id": 220,
     "german": "Opa",
     "word_class": "noun",
     "article": "der",
@@ -3509,10 +4381,11 @@
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 230,
+    "id": 221,
     "german": "Rechnung",
     "word_class": "noun",
     "article": "die",
@@ -3524,10 +4397,11 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 231,
+    "id": 222,
     "german": "Restaurant",
     "word_class": "noun",
     "article": "das",
@@ -3539,10 +4413,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 232,
+    "id": 223,
     "german": "Salat",
     "word_class": "noun",
     "article": "der",
@@ -3554,10 +4429,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 233,
+    "id": 224,
     "german": "S-bahn",
     "word_class": "noun",
     "article": "die",
@@ -3569,10 +4445,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 234,
+    "id": 225,
     "german": "schauspieler",
     "word_class": "noun",
     "article": "der",
@@ -3584,10 +4461,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 235,
+    "id": 226,
     "german": "Schnitzel",
     "word_class": "noun",
     "article": "das",
@@ -3599,10 +4477,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 236,
+    "id": 227,
     "german": "Schokolade",
     "word_class": "noun",
     "article": "die",
@@ -3614,10 +4493,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 237,
+    "id": 228,
     "german": "Schrank",
     "word_class": "noun",
     "article": "der",
@@ -3629,10 +4509,11 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 238,
+    "id": 229,
     "german": "Sch\u00FCler",
     "word_class": "noun",
     "article": "der",
@@ -3644,10 +4525,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 239,
+    "id": 230,
     "german": "Schwester",
     "word_class": "noun",
     "article": "die",
@@ -3659,10 +4541,11 @@
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 240,
+    "id": 231,
     "german": "Schwimmbad",
     "word_class": "noun",
     "article": "das",
@@ -3674,10 +4557,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 241,
+    "id": 232,
     "german": "Sekret\u00E4r",
     "word_class": "noun",
     "article": "der",
@@ -3689,10 +4573,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 242,
+    "id": 233,
     "german": "Sessel",
     "word_class": "noun",
     "article": "der",
@@ -3704,10 +4589,11 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 243,
+    "id": 234,
     "german": "Shinken",
     "word_class": "noun",
     "article": "der",
@@ -3719,10 +4605,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 244,
+    "id": 235,
     "german": "Sofa",
     "word_class": "noun",
     "article": "das",
@@ -3734,10 +4621,11 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 245,
+    "id": 236,
     "german": "Spa\u00DF",
     "word_class": "noun",
     "article": "der",
@@ -3749,10 +4637,11 @@
     "book": "A1.1",
     "level": "7",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 246,
+    "id": 237,
     "german": "Stelle",
     "word_class": "noun",
     "article": "die",
@@ -3764,10 +4653,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 247,
+    "id": 238,
     "german": "Stift",
     "word_class": "noun",
     "article": "der",
@@ -3779,10 +4669,11 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 248,
+    "id": 239,
     "german": "Stra\u00DFe",
     "word_class": "noun",
     "article": "die",
@@ -3794,10 +4685,11 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 249,
+    "id": 240,
     "german": "Stra\u00DFenbahn",
     "word_class": "noun",
     "article": "die",
@@ -3809,10 +4701,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 250,
+    "id": 241,
     "german": "Strudel",
     "word_class": "noun",
     "article": "der",
@@ -3824,10 +4717,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 251,
+    "id": 242,
     "german": "St\u00FCck",
     "word_class": "noun",
     "article": "das",
@@ -3839,10 +4733,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 252,
+    "id": 243,
     "german": "student",
     "word_class": "noun",
     "article": "der",
@@ -3854,10 +4749,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 253,
+    "id": 244,
     "german": "Stuhl",
     "word_class": "noun",
     "article": "der",
@@ -3869,10 +4765,11 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 254,
+    "id": 245,
     "german": "Suppe",
     "word_class": "noun",
     "article": "die",
@@ -3884,10 +4781,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 255,
+    "id": 246,
     "german": "Tasche",
     "word_class": "noun",
     "article": "die",
@@ -3899,10 +4797,11 @@
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 256,
+    "id": 247,
     "german": "Taxi",
     "word_class": "noun",
     "article": "das",
@@ -3914,10 +4813,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 257,
+    "id": 248,
     "german": "Tee",
     "word_class": "noun",
     "article": "der",
@@ -3929,10 +4829,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 258,
+    "id": 249,
     "german": "Telefon",
     "word_class": "noun",
     "article": "das",
@@ -3944,10 +4845,11 @@
     "book": "A1.1",
     "level": "6",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 259,
+    "id": 250,
     "german": "Teppisch",
     "word_class": "noun",
     "article": "der",
@@ -3959,10 +4861,11 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 260,
+    "id": 251,
     "german": "Theater",
     "word_class": "noun",
     "article": "das",
@@ -3974,10 +4877,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 261,
+    "id": 252,
     "german": "Tisch",
     "word_class": "noun",
     "article": "der",
@@ -3989,10 +4893,11 @@
     "book": "A1.1",
     "level": "4",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 262,
+    "id": 253,
     "german": "Tochter",
     "word_class": "noun",
     "article": "die",
@@ -4004,10 +4909,11 @@
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 263,
+    "id": 254,
     "german": "Tomate",
     "word_class": "noun",
     "article": "die",
@@ -4019,10 +4925,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 264,
+    "id": 255,
     "german": "U-Bahn",
     "word_class": "noun",
     "article": "die",
@@ -4034,10 +4941,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 265,
+    "id": 256,
     "german": "Verk\u00E4ufer",
     "word_class": "noun",
     "article": "der",
@@ -4049,10 +4957,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 266,
+    "id": 257,
     "german": "Viertel",
     "word_class": "noun",
     "article": "das",
@@ -4064,10 +4973,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 267,
+    "id": 258,
     "german": "Vormittag",
     "word_class": "noun",
     "article": "der",
@@ -4079,10 +4989,11 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 268,
+    "id": 259,
     "german": "Vorspeise",
     "word_class": "noun",
     "article": "die",
@@ -4094,10 +5005,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 269,
+    "id": 260,
     "german": "wohnort",
     "word_class": "noun",
     "article": "der",
@@ -4109,10 +5021,11 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 270,
+    "id": 261,
     "german": "zug",
     "word_class": "noun",
     "article": "der",
@@ -4124,10 +5037,11 @@
     "book": "A1.1",
     "level": "10",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 271,
+    "id": 262,
     "german": "zwiebel",
     "word_class": "noun",
     "article": "die",
@@ -4139,10 +5053,11 @@
     "book": "A1.1",
     "level": "9",
     "difficultyLevel": "",
-    "examples": []
+    "examples": [],
+    "description": ""
   },
   {
-    "id": 272,
+    "id": 263,
     "german": "H\u00F6ren",
     "word_class": "verb",
     "article": "",
@@ -4212,10 +5127,11 @@
         "german": "Ich h\u00F6re diesen Podcast nicht gern",
         "english": "I don\u0027t like listening to this podcast"
       }
-    ]
+    ],
+    "description": ""
   },
   {
-    "id": 273,
+    "id": 264,
     "german": "Hei\u00DFen",
     "word_class": "verb",
     "article": "",
@@ -4261,10 +5177,11 @@
         "german": "Die Stra\u00DFe hei\u00DFt asd",
         "english": "that street is called asd"
       }
-    ]
+    ],
+    "description": ""
   },
   {
-    "id": 274,
+    "id": 265,
     "german": "Sagen",
     "word_class": "verb",
     "article": "",
@@ -4318,10 +5235,11 @@
         "german": "Er sagt den Witz(akuza)",
         "english": "He tell the joke"
       }
-    ]
+    ],
+    "description": ""
   },
   {
-    "id": 275,
+    "id": 266,
     "german": "Arbeite",
     "word_class": "verb",
     "article": "",
@@ -4367,10 +5285,11 @@
         "german": "Ich arbeite bei Plano Solution",
         "english": "I work at plano solution"
       }
-    ]
+    ],
+    "description": ""
   },
   {
-    "id": 276,
+    "id": 267,
     "german": "Sehen",
     "word_class": "verb",
     "article": "",
@@ -4420,10 +5339,11 @@
         "german": "Er hat mich gesehen.",
         "english": "He saw me."
       }
-    ]
+    ],
+    "description": ""
   },
   {
-    "id": 277,
+    "id": 268,
     "german": "Glauben",
     "word_class": "verb",
     "article": "",
@@ -4469,6 +5389,3224 @@
         "german": "das ist teuer, glaube isch.",
         "english": "That is expensive I think."
       }
-    ]
+    ],
+    "description": ""
+  },
+  {
+    "id": 269,
+    "german": "Kosten",
+    "word_class": "verb",
+    "article": "",
+    "english": "To cost",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat gekostet",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Koste"
+      },
+      {
+        "person": 2,
+        "form": "Kostest"
+      },
+      {
+        "person": 3,
+        "form": "Kostet"
+      },
+      {
+        "person": 4,
+        "form": "Kosten"
+      },
+      {
+        "person": 5,
+        "form": "Kostet"
+      },
+      {
+        "person": 6,
+        "form": "Kosten"
+      }
+    ],
+    "book": "A1.1",
+    "level": "4",
+    "difficultyLevel": "",
+    "examples": [
+      {
+        "german": "Wie viel kostet der Tisch",
+        "english": "How much does the Table Cost?"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": 270,
+    "german": "AnSehen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To Look at",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat angesehen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Sehe..an"
+      },
+      {
+        "person": 2,
+        "form": "Siehst..an"
+      },
+      {
+        "person": 3,
+        "form": "Sieht..an"
+      },
+      {
+        "person": 4,
+        "form": "Sehen..an"
+      },
+      {
+        "person": 5,
+        "form": "Seht..an"
+      },
+      {
+        "person": 6,
+        "form": "Sehen..an"
+      }
+    ],
+    "book": "A1.1",
+    "level": "5",
+    "difficultyLevel": "",
+    "examples": [
+      {
+        "german": "Sehen Sie das Foto an",
+        "english": "Look at that photo"
+      },
+      {
+        "german": "Sie sieht meinen Laptop an.",
+        "english": "She looks at my laptop."
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": 271,
+    "german": "Foto",
+    "word_class": "noun",
+    "article": "das",
+    "english": "photo",
+    "plural": "Die Fotos",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "5",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 272,
+    "german": "Weiter",
+    "word_class": "adjective",
+    "article": "",
+    "english": "Continue/Further/Further on/Next",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "5",
+    "difficultyLevel": "",
+    "examples": [
+      {
+        "german": "Der Bahnhof ist ein St\u00FCck weiter",
+        "english": "The station is a bit further."
+      },
+      {
+        "german": "Und so weiter (usw.)",
+        "english": "And so on (etc.)"
+      },
+      {
+        "german": "Wir m\u00FCssen weitermachen.",
+        "english": "We have to keep going / continue"
+      },
+      {
+        "german": "Klicken Sie auf \u201EWeiter\u201C",
+        "english": "Click on \u0022Next.\u0022"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": 273,
+    "german": "Stimmen",
+    "word_class": "verb",
+    "article": "",
+    "english": "That is correct/right/True",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat Stimmt",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Stimme"
+      },
+      {
+        "person": 2,
+        "form": "Stimmst"
+      },
+      {
+        "person": 3,
+        "form": "Stimmt"
+      },
+      {
+        "person": 4,
+        "form": "Stimmen"
+      },
+      {
+        "person": 5,
+        "form": "Stimmt"
+      },
+      {
+        "person": 6,
+        "form": "Stimmen"
+      }
+    ],
+    "book": "A1.1",
+    "level": "5",
+    "difficultyLevel": "",
+    "examples": [
+      {
+        "german": "Stimmt Das",
+        "english": "Is that Correct"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": 274,
+    "german": "Lesen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To read",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat gelesen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Lese"
+      },
+      {
+        "person": 2,
+        "form": "Liest"
+      },
+      {
+        "person": 3,
+        "form": "Liest"
+      },
+      {
+        "person": 4,
+        "form": "Lesen"
+      },
+      {
+        "person": 5,
+        "form": "lest"
+      },
+      {
+        "person": 6,
+        "form": "Lesen"
+      }
+    ],
+    "book": "A1.1",
+    "level": "5",
+    "difficultyLevel": "",
+    "examples": [
+      {
+        "german": "Ich lese den comic f\u00FCr dich.",
+        "english": "I read comic for you"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": 275,
+    "german": "F\u00FCr dich",
+    "word_class": "tip",
+    "article": "",
+    "english": "For you",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "5",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 276,
+    "german": "Farbe",
+    "word_class": "noun",
+    "article": "die",
+    "english": "Color",
+    "plural": "Farben",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "5",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 277,
+    "german": "Eckig",
+    "word_class": "adjective",
+    "article": "",
+    "english": "Square/angular/cornered",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "5",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 278,
+    "german": "H\u00FCbsch",
+    "word_class": "adjective",
+    "article": "",
+    "english": "Pretty - Handsome",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "6",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 279,
+    "german": "Problem",
+    "word_class": "noun",
+    "article": "das",
+    "english": "Problem",
+    "plural": "Probleme",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "6",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 280,
+    "german": "St\u00FCbern",
+    "word_class": "verb",
+    "article": "",
+    "english": "To browse - To poke around",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat gest\u00FCbert",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "St\u00F6bere"
+      },
+      {
+        "person": 2,
+        "form": "St\u00F6berst"
+      },
+      {
+        "person": 3,
+        "form": "St\u00F6bert"
+      },
+      {
+        "person": 4,
+        "form": "St\u00F6bern"
+      },
+      {
+        "person": 5,
+        "form": "St\u00F6bert"
+      },
+      {
+        "person": 6,
+        "form": "St\u00F6bern"
+      }
+    ],
+    "book": "A1.1",
+    "level": "6",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 281,
+    "german": "Handeln",
+    "word_class": "verb",
+    "article": "",
+    "english": "To act-trade-negotiate",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat gehandelt",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Handle"
+      },
+      {
+        "person": 2,
+        "form": "Handlest"
+      },
+      {
+        "person": 3,
+        "form": "Handlet"
+      },
+      {
+        "person": 4,
+        "form": "Handlen"
+      },
+      {
+        "person": 5,
+        "form": "Handlet"
+      },
+      {
+        "person": 6,
+        "form": "Handlen"
+      }
+    ],
+    "book": "A1.1",
+    "level": "6",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 282,
+    "german": "Mehr",
+    "word_class": "adverb",
+    "article": "",
+    "english": "More",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "6",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 283,
+    "german": "Neuware",
+    "word_class": "noun",
+    "article": "die",
+    "english": "New goods",
+    "plural": "Neuwaren",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "6",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 284,
+    "german": "gar nicht",
+    "word_class": "adverb",
+    "article": "",
+    "english": "not at all /  not a bit",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "7",
+    "difficultyLevel": "",
+    "examples": [
+      {
+        "german": "Das ist gar nicht so einfach",
+        "english": "that is not each at all."
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": 285,
+    "german": "gar nichts",
+    "word_class": "adverb",
+    "article": "",
+    "english": "nothing at all",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "7",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 286,
+    "german": "gar kein",
+    "word_class": "adverb",
+    "article": "",
+    "english": "none at all",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "7",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 287,
+    "german": "gar neimand",
+    "word_class": "adverb",
+    "article": "",
+    "english": "no one at all",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "7",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 288,
+    "german": "gar nie",
+    "word_class": "adverb",
+    "article": "",
+    "english": "never ever",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "7",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 289,
+    "german": "herzlichen",
+    "word_class": "adjective",
+    "article": "",
+    "english": "Heartfelt / Cordial / Sincere",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "7",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 290,
+    "german": "spazieren",
+    "word_class": "verb",
+    "article": "",
+    "english": "To walk/ to stroll",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Ist spaziert",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "spaziere"
+      },
+      {
+        "person": 2,
+        "form": "spazierst"
+      },
+      {
+        "person": 3,
+        "form": "spaziert"
+      },
+      {
+        "person": 4,
+        "form": "spazieren"
+      },
+      {
+        "person": 5,
+        "form": "spaziert"
+      },
+      {
+        "person": 6,
+        "form": "spazieren"
+      }
+    ],
+    "book": "A1.1",
+    "level": "7",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 291,
+    "german": "lieben",
+    "word_class": "verb",
+    "article": "",
+    "english": "To love",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat geliebt",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Liebe"
+      },
+      {
+        "person": 2,
+        "form": "Liebst"
+      },
+      {
+        "person": 3,
+        "form": "Liebt"
+      },
+      {
+        "person": 4,
+        "form": "Lieben"
+      },
+      {
+        "person": 5,
+        "form": "Liebt"
+      },
+      {
+        "person": 6,
+        "form": "Lieben"
+      }
+    ],
+    "book": "A1.1",
+    "level": "7",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 292,
+    "german": "lieblings-",
+    "word_class": "prefix",
+    "article": "",
+    "english": "Favorite",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "7",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 293,
+    "german": "leid",
+    "word_class": "adjective",
+    "article": "",
+    "english": "Sorry / Sad / Suffering / Sorrow",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "7",
+    "difficultyLevel": "",
+    "examples": [
+      {
+        "german": "Es tut mir leid",
+        "english": "I am sorry"
+      },
+      {
+        "german": "Das tut mir leid",
+        "english": "I\u0027m sorry to hear that."
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": 294,
+    "german": "meinen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To mean / To think (opine) / To intend",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat Gemeint",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "meine"
+      },
+      {
+        "person": 2,
+        "form": "meinst"
+      },
+      {
+        "person": 3,
+        "form": "meint"
+      },
+      {
+        "person": 4,
+        "form": "meinen"
+      },
+      {
+        "person": 5,
+        "form": "meint"
+      },
+      {
+        "person": 6,
+        "form": "meinen"
+      }
+    ],
+    "book": "A1.1",
+    "level": "8",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 295,
+    "german": "vorschlagen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To suggest / To propose",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat vorgeschlagen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "schlage vor"
+      },
+      {
+        "person": 2,
+        "form": "schl\u00E4gst vor"
+      },
+      {
+        "person": 3,
+        "form": "schl\u00E4gt vor"
+      },
+      {
+        "person": 4,
+        "form": "schlagen vor"
+      },
+      {
+        "person": 5,
+        "form": "schlagt vor"
+      },
+      {
+        "person": 6,
+        "form": "schlagen vor"
+      }
+    ],
+    "book": "A1.1",
+    "level": "8",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 296,
+    "german": "vielleicht",
+    "word_class": "adverb",
+    "article": "",
+    "english": "Maybe / Perhaps / Possibly",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "8",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 297,
+    "german": "Montag",
+    "word_class": "noun",
+    "article": "der",
+    "english": "Monday",
+    "plural": "Montage",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "8",
+    "difficultyLevel": "",
+    "examples": [
+      {
+        "german": "Hast du am Montag Zeit?",
+        "english": "Do you have time on monday"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": 298,
+    "german": "Dienstag",
+    "word_class": "noun",
+    "article": "der",
+    "english": "Tuesday",
+    "plural": "Dienstage",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "8",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 299,
+    "german": "Mittwoch",
+    "word_class": "noun",
+    "article": "der",
+    "english": "Wednesday",
+    "plural": "Mittwoche",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "8",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 300,
+    "german": "Donnerstag",
+    "word_class": "noun",
+    "article": "der",
+    "english": "Thursday",
+    "plural": "Donnerstage",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "8",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 301,
+    "german": "Freitag",
+    "word_class": "noun",
+    "article": "der",
+    "english": "Friday",
+    "plural": "Freitage",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "8",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 302,
+    "german": "Samstag",
+    "word_class": "noun",
+    "article": "der",
+    "english": "Saturday",
+    "plural": "Samstage",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "8",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 303,
+    "german": "Sonntag",
+    "word_class": "noun",
+    "article": "der",
+    "english": "Sunday",
+    "plural": "Sonntage",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "8",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 304,
+    "german": "Liebe Gr\u00FC\u00DFe",
+    "word_class": "phrase",
+    "article": "",
+    "english": "Best regards / Kind regards / Warm greetings",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "8",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 305,
+    "german": "Essen",
+    "word_class": "noun",
+    "article": "das",
+    "english": "Food / Meal / Eating",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 306,
+    "german": "K\u00FChlschrank",
+    "word_class": "noun",
+    "article": "der",
+    "english": "Refrigerator",
+    "plural": "K\u00FChlschr\u00E4nke",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 307,
+    "german": "kennen",
+    "word_class": "verb",
+    "article": "",
+    "english": "Knows (a person, a place, or a familiar fact)",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat gekannt",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "kenne"
+      },
+      {
+        "person": 2,
+        "form": "kennst"
+      },
+      {
+        "person": 3,
+        "form": "kennt"
+      },
+      {
+        "person": 4,
+        "form": "kennen"
+      },
+      {
+        "person": 5,
+        "form": "kennt"
+      },
+      {
+        "person": 6,
+        "form": "kennen"
+      }
+    ],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 308,
+    "german": "schmecken",
+    "word_class": "verb",
+    "article": "",
+    "english": "Tastes / Is tasty",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat geschmeckt",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "schmecke"
+      },
+      {
+        "person": 2,
+        "form": "schmeckst"
+      },
+      {
+        "person": 3,
+        "form": "schmeckt"
+      },
+      {
+        "person": 4,
+        "form": "schmecken"
+      },
+      {
+        "person": 5,
+        "form": "schmeckt"
+      },
+      {
+        "person": 6,
+        "form": "schmecken"
+      }
+    ],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [
+      {
+        "german": "Das Essen schmeckt gut",
+        "english": "The food tastes good"
+      },
+      {
+        "german": "Der Tee schmeckt nach Minze",
+        "english": "The tea tastes like mint."
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": 309,
+    "german": "s\u00FC\u00DF",
+    "word_class": "adjective",
+    "article": "",
+    "english": "Sweet",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 310,
+    "german": "sauer",
+    "word_class": "adjective",
+    "article": "",
+    "english": "Sour",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 311,
+    "german": "salzig",
+    "word_class": "adjective",
+    "article": "",
+    "english": "Salty",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 312,
+    "german": "bitter",
+    "word_class": "adjective",
+    "article": "",
+    "english": "Bitter",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 313,
+    "german": "herzhaft",
+    "word_class": "adjective",
+    "article": "",
+    "english": "Savory / Umam",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 314,
+    "german": "bearbeiten",
+    "word_class": "verb",
+    "article": "",
+    "english": "To edit / To process / To work on",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat bearbeitet",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "bearbeite"
+      },
+      {
+        "person": 2,
+        "form": "bearbeitest"
+      },
+      {
+        "person": 3,
+        "form": "bearbeitet"
+      },
+      {
+        "person": 4,
+        "form": "bearbeiten"
+      },
+      {
+        "person": 5,
+        "form": "bearbeitet"
+      },
+      {
+        "person": 6,
+        "form": "bearbeiten"
+      }
+    ],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 315,
+    "german": "schlafen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To sleep",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat geschlafen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "schlafe"
+      },
+      {
+        "person": 2,
+        "form": "schl\u00E4fst"
+      },
+      {
+        "person": 3,
+        "form": "schl\u00E4ft"
+      },
+      {
+        "person": 4,
+        "form": "schlafen"
+      },
+      {
+        "person": 5,
+        "form": "schlaft"
+      },
+      {
+        "person": 6,
+        "form": "schlafen"
+      }
+    ],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 316,
+    "german": "Garten",
+    "word_class": "noun",
+    "article": "der",
+    "english": "Garden- yard",
+    "plural": "G\u00E4rten",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 317,
+    "german": "Marmelade",
+    "word_class": "noun",
+    "article": "die",
+    "english": "Jam / Marmalade",
+    "plural": "Marmeladen",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 318,
+    "german": "Honig",
+    "word_class": "noun",
+    "article": "der",
+    "english": "Honey",
+    "plural": "Honige",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 319,
+    "german": "melden",
+    "word_class": "verb",
+    "article": "",
+    "english": "To report / To register / To get in touch",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat  gemeldet",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "melde"
+      },
+      {
+        "person": 2,
+        "form": "meldest"
+      },
+      {
+        "person": 3,
+        "form": "meldet"
+      },
+      {
+        "person": 4,
+        "form": "melden"
+      },
+      {
+        "person": 5,
+        "form": "meldet"
+      },
+      {
+        "person": 6,
+        "form": "melden"
+      }
+    ],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 320,
+    "german": "freuen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To be happy / To look forward to / To rejoice",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "hat gefreut",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "freue mich"
+      },
+      {
+        "person": 2,
+        "form": "freust dich"
+      },
+      {
+        "person": 3,
+        "form": "freut sich"
+      },
+      {
+        "person": 4,
+        "form": "freuen uns"
+      },
+      {
+        "person": 5,
+        "form": "freut euch"
+      },
+      {
+        "person": 6,
+        "form": "freuen sich"
+      }
+    ],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 321,
+    "german": "endlich",
+    "word_class": "adverb",
+    "article": "",
+    "english": "Finally / At last",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 322,
+    "german": "traditionelles",
+    "word_class": "adjective",
+    "article": "",
+    "english": "Traditional",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 323,
+    "german": "Tradition",
+    "word_class": "noun",
+    "article": "die",
+    "english": "tradition",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 324,
+    "german": "Seefahreressen",
+    "word_class": "noun",
+    "article": "das",
+    "english": "Sailor\u0027s food",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 325,
+    "german": "fr\u00FCher",
+    "word_class": "adverb",
+    "article": "",
+    "english": "Earlier / In the past / Formerly",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 326,
+    "german": "Resteessen",
+    "word_class": "noun",
+    "article": "das",
+    "english": "Leftovers meal / Eating up the remains",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 327,
+    "german": "Rest",
+    "word_class": "noun",
+    "article": "der",
+    "english": "leftover",
+    "plural": "Reste",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 328,
+    "german": "bedeuten",
+    "word_class": "verb",
+    "article": "",
+    "english": "means",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat bedeutet",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "bedeute"
+      },
+      {
+        "person": 2,
+        "form": "bedeutest"
+      },
+      {
+        "person": 3,
+        "form": "bedeutet"
+      },
+      {
+        "person": 4,
+        "form": "bedeuten"
+      },
+      {
+        "person": 5,
+        "form": "bedeutet"
+      },
+      {
+        "person": 6,
+        "form": "bedeuten"
+      }
+    ],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 329,
+    "german": "daraus",
+    "word_class": "adverb",
+    "article": "",
+    "english": "From it / Out of it / From that",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 330,
+    "german": "verwenden",
+    "word_class": "verb",
+    "article": "",
+    "english": "To use / To utilize / To employ",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat verwendet",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "verwende"
+      },
+      {
+        "person": 2,
+        "form": "verwendest"
+      },
+      {
+        "person": 3,
+        "form": "verwendet"
+      },
+      {
+        "person": 4,
+        "form": "verwenden"
+      },
+      {
+        "person": 5,
+        "form": "verwendet"
+      },
+      {
+        "person": 6,
+        "form": "verwenden"
+      }
+    ],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 331,
+    "german": "Zutat",
+    "word_class": "noun",
+    "article": "die",
+    "english": "Ingredient",
+    "plural": "Zutaten",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 332,
+    "german": "selbst",
+    "word_class": "pronoun",
+    "article": "",
+    "english": "Self / Myself (etc.) / Even",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 333,
+    "german": "ganz leicht",
+    "word_class": "phrase",
+    "article": "",
+    "english": "Very easy / Very light / Quite simple",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 334,
+    "german": "stampfen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To stomp / To tramp / To mash (food) / To pound",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat gestampft / ist gestampft",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "stampfe"
+      },
+      {
+        "person": 2,
+        "form": "stampfst"
+      },
+      {
+        "person": 3,
+        "form": "stampft"
+      },
+      {
+        "person": 4,
+        "form": "stampfen"
+      },
+      {
+        "person": 5,
+        "form": "stampft"
+      },
+      {
+        "person": 6,
+        "form": "stampfen"
+      }
+    ],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 335,
+    "german": "w\u00FCrzen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To season / To spice / To flavor",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "hat gew\u00FCrzt",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "w\u00FCrze"
+      },
+      {
+        "person": 2,
+        "form": "w\u00FCrzt"
+      },
+      {
+        "person": 3,
+        "form": "w\u00FCrzt"
+      },
+      {
+        "person": 4,
+        "form": "w\u00FCrzen"
+      },
+      {
+        "person": 5,
+        "form": "w\u00FCrzt"
+      },
+      {
+        "person": 6,
+        "form": "w\u00FCrzen"
+      }
+    ],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 336,
+    "german": "dazugeben",
+    "word_class": "verb",
+    "article": "",
+    "english": "To add (to something) / To contribute / To give in addition",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "hat dazugegeben",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "gebe ... dazu"
+      },
+      {
+        "person": 2,
+        "form": "gibst ... dazu"
+      },
+      {
+        "person": 3,
+        "form": "gibt ... dazu"
+      },
+      {
+        "person": 4,
+        "form": "geben ... dazu"
+      },
+      {
+        "person": 5,
+        "form": "gebt ... dazu"
+      },
+      {
+        "person": 6,
+        "form": "geben ... dazu"
+      }
+    ],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 337,
+    "german": "Spiegelei",
+    "word_class": "noun",
+    "article": "das",
+    "english": "Fried egg / Sunny-side up egg",
+    "plural": "Spiegeleier",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 338,
+    "german": "Gew\u00FCrzgurke",
+    "word_class": "noun",
+    "article": "die",
+    "english": "Pickled cucumber",
+    "plural": "Gew\u00FCrzgurken",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 339,
+    "german": "Gericht",
+    "word_class": "noun",
+    "article": "das",
+    "english": "Dishe (food) / Court (legal)",
+    "plural": "Gerichte",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 340,
+    "german": "Zum/Zur",
+    "word_class": "preposition",
+    "article": "",
+    "english": "To the / For the / At the",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "9",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": "Always dative. so zu\u002Bdem / zu \u002Bder"
+  },
+  {
+    "id": 341,
+    "german": "Schlie\u00DFen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To close / To shut / To lock / To conclude",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat geschlossen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "schlie\u00DFe"
+      },
+      {
+        "person": 2,
+        "form": "schlie\u00DFt"
+      },
+      {
+        "person": 3,
+        "form": "schlie\u00DFt"
+      },
+      {
+        "person": 4,
+        "form": "schlie\u00DFen"
+      },
+      {
+        "person": 5,
+        "form": "schlie\u00DFt"
+      },
+      {
+        "person": 6,
+        "form": "schlie\u00DFen"
+      }
+    ],
+    "book": "A1.1",
+    "level": "10",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 342,
+    "german": "aussteigen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To get out / To get off (a vehicle) / To drop out",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "ist  ausgestiegen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "steige ... aus"
+      },
+      {
+        "person": 2,
+        "form": "steigst ... aus"
+      },
+      {
+        "person": 3,
+        "form": "steigt ... aus"
+      },
+      {
+        "person": 4,
+        "form": "steigen ... aus"
+      },
+      {
+        "person": 5,
+        "form": "steigt ... aus"
+      },
+      {
+        "person": 6,
+        "form": "steigen ... aus"
+      }
+    ],
+    "book": "A1.1",
+    "level": "10",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 343,
+    "german": "einsteigen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To get in / To board / To enter (a vehicle)",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "ist eingestiegen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "steige ... ein"
+      },
+      {
+        "person": 2,
+        "form": "steigst ... ein"
+      },
+      {
+        "person": 3,
+        "form": "steigt ... ein"
+      },
+      {
+        "person": 4,
+        "form": "steigen ... ein"
+      },
+      {
+        "person": 5,
+        "form": "steigt ... ein"
+      },
+      {
+        "person": 6,
+        "form": "steigen ... ein"
+      }
+    ],
+    "book": "A1.1",
+    "level": "10",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 344,
+    "german": "anrufen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To call (on the phone) / To shout out to",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat angerufen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "rufe ... an"
+      },
+      {
+        "person": 2,
+        "form": "rufst ... an"
+      },
+      {
+        "person": 3,
+        "form": "ruft ... an"
+      },
+      {
+        "person": 4,
+        "form": "rufen ... an"
+      },
+      {
+        "person": 5,
+        "form": "ruft ... an"
+      },
+      {
+        "person": 6,
+        "form": "rufen ... an"
+      }
+    ],
+    "book": "A1.1",
+    "level": "10",
+    "difficultyLevel": "",
+    "examples": [
+      {
+        "german": "Ich rufe dich an",
+        "english": "I call you"
+      },
+      {
+        "german": "Rufst du mich an",
+        "english": "do you call me?"
+      },
+      {
+        "german": "Wann rufst du mich an",
+        "english": "When do you call me?"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": 345,
+    "german": "einfahren",
+    "word_class": "verb",
+    "article": "",
+    "english": "To enter (a station)",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Ist eingefahren",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "fahre ... ein"
+      },
+      {
+        "person": 2,
+        "form": "f\u00E4hrst ... ein"
+      },
+      {
+        "person": 3,
+        "form": "f\u00E4hrt ... ein"
+      },
+      {
+        "person": 4,
+        "form": "fahren ... ein"
+      },
+      {
+        "person": 5,
+        "form": "fahrt ... ein"
+      },
+      {
+        "person": 6,
+        "form": "fahren ... ein"
+      }
+    ],
+    "book": "A1.1",
+    "level": "10",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 346,
+    "german": "Vorsicht",
+    "word_class": "noun",
+    "article": "die",
+    "english": "Caution / Care / Prudence / Attention",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "10",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 347,
+    "german": "zur\u00FCckbleiben",
+    "word_class": "verb",
+    "article": "",
+    "english": "To stay behind / To be left behind / To fall behind",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "ist zur\u00FCckgeblieben",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "bleibe ... zur\u00FCck"
+      },
+      {
+        "person": 2,
+        "form": "bleibst ... zur\u00FCck"
+      },
+      {
+        "person": 3,
+        "form": "bleibt ... zur\u00FCck"
+      },
+      {
+        "person": 4,
+        "form": "bleiben ... zur\u00FCck"
+      },
+      {
+        "person": 5,
+        "form": "bleibt ... zur\u00FCck"
+      },
+      {
+        "person": 6,
+        "form": "bleiben ... zur\u00FCck"
+      }
+    ],
+    "book": "A1.1",
+    "level": "10",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 348,
+    "german": "einkaufen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To shop / To go shopping",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat eingekauft",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "kaufe ... ein"
+      },
+      {
+        "person": 2,
+        "form": "kaufst ... ein"
+      },
+      {
+        "person": 3,
+        "form": "kauft ... ein"
+      },
+      {
+        "person": 4,
+        "form": "kaufen ... ein"
+      },
+      {
+        "person": 5,
+        "form": "kauft ... ein"
+      },
+      {
+        "person": 6,
+        "form": "kaufen ... ein"
+      }
+    ],
+    "book": "A1.1",
+    "level": "10",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 349,
+    "german": "nehmen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To take",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "hat genommen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "nehme"
+      },
+      {
+        "person": 2,
+        "form": "nimmst"
+      },
+      {
+        "person": 3,
+        "form": "nimmt"
+      },
+      {
+        "person": 4,
+        "form": "nehmen"
+      },
+      {
+        "person": 5,
+        "form": "nehmt"
+      },
+      {
+        "person": 6,
+        "form": "nehmen"
+      }
+    ],
+    "book": "A1.1",
+    "level": "10",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 350,
+    "german": "wohin",
+    "word_class": "adverb",
+    "article": "",
+    "english": "wehre to",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": "Wo hin"
+  },
+  {
+    "id": 351,
+    "german": "Wie oft",
+    "word_class": "phrase",
+    "article": "",
+    "english": "How oftern",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 352,
+    "german": "T\u00E4glich",
+    "word_class": "adverb",
+    "article": "",
+    "english": "Daily / Every day",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [
+      {
+        "german": "Ich fahre t\u00E4glich zur Arbeit.",
+        "english": "I drive to work everyday."
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": 353,
+    "german": "an",
+    "word_class": "preposition",
+    "article": "",
+    "english": "On / At / On the",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": "location - position - not moving -\u003E dative am(an \u002B dem) / an der === movement - direction -\u003E accusative - an den / ans (an das)/ an die"
+  },
+  {
+    "id": 354,
+    "german": "in",
+    "word_class": "preposition",
+    "article": "",
+    "english": "In / Into / To",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": "location - position - not moving -\u003E dative im(in \u002B dem) / in der === movement - direction -\u003E accusative - in den / ins (in das)/ in die"
+  },
+  {
+    "id": 355,
+    "german": "aufr\u00E4umen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To tidy up / To clean up / To clear away",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat aufger\u00E4umt",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "r\u00E4ume ... auf"
+      },
+      {
+        "person": 2,
+        "form": "r\u00E4umst ... auf"
+      },
+      {
+        "person": 3,
+        "form": "r\u00E4umt ... auf"
+      },
+      {
+        "person": 4,
+        "form": "r\u00E4umen ... auf"
+      },
+      {
+        "person": 5,
+        "form": "r\u00E4umt ... auf"
+      },
+      {
+        "person": 6,
+        "form": "r\u00E4umen ... auf"
+      }
+    ],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 356,
+    "german": "Pause",
+    "word_class": "noun",
+    "article": "die",
+    "english": "Break / Pause / Recess / Intermission",
+    "plural": "Pausen",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 357,
+    "german": "schwanger",
+    "word_class": "adjective",
+    "article": "",
+    "english": "Pregnant",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 358,
+    "german": "Paar",
+    "word_class": "noun",
+    "article": "das",
+    "english": "A pair / A couple / A few",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 359,
+    "german": "Reise",
+    "word_class": "noun",
+    "article": "die",
+    "english": "Trip / Journey / Travel",
+    "plural": "Reisen",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 360,
+    "german": "Dienstreise",
+    "word_class": "noun",
+    "article": "die",
+    "english": "Business trip",
+    "plural": "Dienstreisen",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 361,
+    "german": "Schatz",
+    "word_class": "noun",
+    "article": "der",
+    "english": "Treasure / Sweetheart / Honey / Darling",
+    "plural": "Sch\u00E4tze",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 362,
+    "german": "hatten",
+    "word_class": "verb",
+    "article": "",
+    "english": "Had",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "hatte"
+      },
+      {
+        "person": 2,
+        "form": "hattest"
+      },
+      {
+        "person": 3,
+        "form": "hatte"
+      },
+      {
+        "person": 4,
+        "form": "hatten"
+      },
+      {
+        "person": 5,
+        "form": "hattet"
+      },
+      {
+        "person": 6,
+        "form": "hatten"
+      }
+    ],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 363,
+    "german": "flei\u00DFig",
+    "word_class": "adjective",
+    "article": "",
+    "english": "Hardworking",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 364,
+    "german": "\u00FCben",
+    "word_class": "verb",
+    "article": "",
+    "english": "To practice / To exercise / To drill",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat ge\u00FCbt",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "\u00FCbe"
+      },
+      {
+        "person": 2,
+        "form": "\u00FCbst"
+      },
+      {
+        "person": 3,
+        "form": "\u00FCbt"
+      },
+      {
+        "person": 4,
+        "form": "\u00FCben"
+      },
+      {
+        "person": 5,
+        "form": "\u00FCbt"
+      },
+      {
+        "person": 6,
+        "form": "\u00FCben"
+      }
+    ],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 365,
+    "german": "langweilig",
+    "word_class": "adjective",
+    "article": "",
+    "english": "Boring / Tedious / Dull",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 366,
+    "german": "ganz",
+    "word_class": "adjective",
+    "article": "",
+    "english": "Whole / Entire / All",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 367,
+    "german": "Gesch\u00E4ft",
+    "word_class": "noun",
+    "article": "das",
+    "english": "Shop / Store / Business / Transaction",
+    "plural": "Gesch\u00E4fte",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 368,
+    "german": "immer wieder",
+    "word_class": "phrase",
+    "article": "",
+    "english": "Again and again / Over and over / Time and again",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 369,
+    "german": "denken",
+    "word_class": "verb",
+    "article": "",
+    "english": "To think",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat gedacht",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "denke"
+      },
+      {
+        "person": 2,
+        "form": "denkst"
+      },
+      {
+        "person": 3,
+        "form": "denkt"
+      },
+      {
+        "person": 4,
+        "form": "denken"
+      },
+      {
+        "person": 5,
+        "form": "denkt"
+      },
+      {
+        "person": 6,
+        "form": "denken"
+      }
+    ],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 370,
+    "german": "Andenken",
+    "word_class": "noun",
+    "article": "das",
+    "english": "Souvenir / Memento / Memory",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 371,
+    "german": "einladen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To invite / To load (into a vehicle)",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Hat eingeladen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "lade ein"
+      },
+      {
+        "person": 2,
+        "form": "l\u00E4dst ein"
+      },
+      {
+        "person": 3,
+        "form": "l\u00E4dt ein"
+      },
+      {
+        "person": 4,
+        "form": "laden ein"
+      },
+      {
+        "person": 5,
+        "form": "ladet ein"
+      },
+      {
+        "person": 6,
+        "form": "laden ein"
+      }
+    ],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 372,
+    "german": "reden",
+    "word_class": "verb",
+    "article": "",
+    "english": "To talk / To speak / To give a speech",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "hat geredet",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "rede"
+      },
+      {
+        "person": 2,
+        "form": "redest"
+      },
+      {
+        "person": 3,
+        "form": "redet"
+      },
+      {
+        "person": 4,
+        "form": "reden"
+      },
+      {
+        "person": 5,
+        "form": "redet"
+      },
+      {
+        "person": 6,
+        "form": "reden"
+      }
+    ],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 373,
+    "german": "lachen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To laugh",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "hat gelacht",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "lache"
+      },
+      {
+        "person": 2,
+        "form": "lachst"
+      },
+      {
+        "person": 3,
+        "form": "lacht"
+      },
+      {
+        "person": 4,
+        "form": "lachen"
+      },
+      {
+        "person": 5,
+        "form": "lacht"
+      },
+      {
+        "person": 6,
+        "form": "lachen"
+      }
+    ],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 374,
+    "german": "letzt",
+    "word_class": "verb",
+    "article": "",
+    "english": "Last / Latest / Final",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "11",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 375,
+    "german": "passieren",
+    "word_class": "verb",
+    "article": "",
+    "english": "To happen / To pass / To strain (food)",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "ist passiert",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "passiere"
+      },
+      {
+        "person": 2,
+        "form": "passierst"
+      },
+      {
+        "person": 3,
+        "form": "passiert"
+      },
+      {
+        "person": 4,
+        "form": "passieren"
+      },
+      {
+        "person": 5,
+        "form": "passiert"
+      },
+      {
+        "person": 6,
+        "form": "passieren"
+      }
+    ],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 376,
+    "german": "Geburtstag",
+    "word_class": "noun",
+    "article": "der",
+    "english": "Birthday",
+    "plural": "Geburtstage",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 377,
+    "german": "Hochzeit",
+    "word_class": "noun",
+    "article": "die",
+    "english": "Wedding",
+    "plural": "Hochzeiten",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 378,
+    "german": "Silvester",
+    "word_class": "noun",
+    "article": "das",
+    "english": "New Year\u0027s Eve",
+    "plural": "Silvester",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 379,
+    "german": "Karneval",
+    "word_class": "noun",
+    "article": "der",
+    "english": "Carnival",
+    "plural": "Karnevale",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 380,
+    "german": "Leute",
+    "word_class": "noun",
+    "article": "die",
+    "english": "People",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 381,
+    "german": "feiern",
+    "word_class": "verb",
+    "article": "",
+    "english": "To celebrate / To party / To dig (slang)",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "hat gefeiert",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "feiere"
+      },
+      {
+        "person": 2,
+        "form": "feierst"
+      },
+      {
+        "person": 3,
+        "form": "feiert"
+      },
+      {
+        "person": 4,
+        "form": "feiern"
+      },
+      {
+        "person": 5,
+        "form": "feiert"
+      },
+      {
+        "person": 6,
+        "form": "feiern"
+      }
+    ],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 382,
+    "german": "Mensch",
+    "word_class": "noun",
+    "article": "der",
+    "english": "Human /People",
+    "plural": "Menschen",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 383,
+    "german": "Besucher",
+    "word_class": "noun",
+    "article": "der",
+    "english": "guest",
+    "plural": "Besuchern",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 384,
+    "german": "geben",
+    "word_class": "verb",
+    "article": "",
+    "english": "To give / To grant / To exist (with \u0022es\u0022)",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "hat gegeben",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 385,
+    "german": "fangen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To catch / To capture / To trap",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "hat gefangen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "fange"
+      },
+      {
+        "person": 2,
+        "form": "f\u00E4ngst"
+      },
+      {
+        "person": 3,
+        "form": "f\u00E4ngt"
+      },
+      {
+        "person": 4,
+        "form": "fangen"
+      },
+      {
+        "person": 5,
+        "form": "fangt"
+      },
+      {
+        "person": 6,
+        "form": "fangen"
+      }
+    ],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 386,
+    "german": "anfangen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To start / To begin",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "hat angefangen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "fange ... an"
+      },
+      {
+        "person": 2,
+        "form": "f\u00E4ngst ... an"
+      },
+      {
+        "person": 3,
+        "form": "f\u00E4ngt ... an"
+      },
+      {
+        "person": 4,
+        "form": "fangen ... an"
+      },
+      {
+        "person": 5,
+        "form": "fangt ... an"
+      },
+      {
+        "person": 6,
+        "form": "fangen ... an"
+      }
+    ],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 387,
+    "german": "aufh\u00F6ren",
+    "word_class": "verb",
+    "article": "",
+    "english": "To stop / To quit / To cease",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "hat aufgeh\u00F6rt",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "h\u00F6re ... auf"
+      },
+      {
+        "person": 2,
+        "form": "h\u00F6rst ... auf"
+      },
+      {
+        "person": 3,
+        "form": "h\u00F6rt ... auf"
+      },
+      {
+        "person": 4,
+        "form": "h\u00F6ren ... auf"
+      },
+      {
+        "person": 5,
+        "form": "h\u00F6rt ... auf"
+      },
+      {
+        "person": 6,
+        "form": "h\u00F6ren ... auf"
+      }
+    ],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 388,
+    "german": "ander-",
+    "word_class": "adjective",
+    "article": "",
+    "english": "Other / Different / Others",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": "Requires endings based on gender, case, and number"
+  },
+  {
+    "id": 389,
+    "german": "dauern",
+    "word_class": "verb",
+    "article": "",
+    "english": "To last / To take (time)",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "hat gedauert",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "dauere"
+      },
+      {
+        "person": 2,
+        "form": "dauerst"
+      },
+      {
+        "person": 3,
+        "form": "dauert"
+      },
+      {
+        "person": 4,
+        "form": "dauern"
+      },
+      {
+        "person": 5,
+        "form": "dauert"
+      },
+      {
+        "person": 6,
+        "form": "dauern"
+      }
+    ],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 390,
+    "german": "jed-",
+    "word_class": "pronoun",
+    "article": "",
+    "english": "Each / Every",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": "Takes endings based on gender and case"
+  },
+  {
+    "id": 391,
+    "german": "War",
+    "word_class": "verb",
+    "article": "",
+    "english": "Was/were",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "Ist gewesen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "war"
+      },
+      {
+        "person": 2,
+        "form": "warst"
+      },
+      {
+        "person": 3,
+        "form": "war"
+      },
+      {
+        "person": 4,
+        "form": "waren"
+      },
+      {
+        "person": 5,
+        "form": "wart"
+      },
+      {
+        "person": 6,
+        "form": "waren"
+      }
+    ],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 392,
+    "german": "gefallen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To please / To like",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "hat gefallen",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "gefalle"
+      },
+      {
+        "person": 2,
+        "form": "gef\u00E4llst"
+      },
+      {
+        "person": 3,
+        "form": "gef\u00E4llt"
+      },
+      {
+        "person": 4,
+        "form": "gefallen"
+      },
+      {
+        "person": 5,
+        "form": "gefallt"
+      },
+      {
+        "person": 6,
+        "form": "gefallen"
+      }
+    ],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [
+      {
+        "german": "Das Kleid gef\u00E4llt mir",
+        "english": "The dress pleases me. I like the dress."
+      }
+    ],
+    "description": "This verb is a classic \u0022backwards\u0022 verb for English speakers. The thing is the subject, and the person is the Dative object."
+  },
+  {
+    "id": 393,
+    "german": "losfahren",
+    "word_class": "verb",
+    "article": "",
+    "english": "To set off / To leave / To start driving",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "ist losgefahren",
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "fahre ... los"
+      },
+      {
+        "person": 2,
+        "form": "f\u00E4hrst ... los"
+      },
+      {
+        "person": 3,
+        "form": "f\u00E4hrt ... los"
+      },
+      {
+        "person": 4,
+        "form": "fahren ... los"
+      },
+      {
+        "person": 5,
+        "form": "fahren ... los"
+      },
+      {
+        "person": 6,
+        "form": "fahren ... los"
+      }
+    ],
+    "book": "A1.1",
+    "level": "12",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
   }
 ]

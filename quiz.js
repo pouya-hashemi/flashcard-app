@@ -31,7 +31,7 @@ function filterWords() {
 
   filteredWords = allWords.filter(word => {
     const bookMatch = selectedBooks.length === 0 || selectedBooks.includes(word.book);
-    const difficultyMatch = selectedDifficulties.length === 0 || selectedDifficulties.includes(word.difficultyLevel);
+    const difficultyMatch = selectedDifficulties.length === 0 || selectedDifficulties.includes(word.level);
     return bookMatch && difficultyMatch;
   });
 
@@ -118,6 +118,7 @@ document.getElementById('revealBtn').addEventListener('click', function() {
     ${word.feminine ? `<p><strong>Feminine:</strong> ${word.feminine}</p>` : ''}
     ${word.pastPerfect ? `<p><strong>Past Perfect:</strong> ${word.pastPerfect}</p>` : ''}
     ${word.difficultyLevel ? `<p><strong>Difficulty Level:</strong> ${word.difficultyLevel}</p>` : ''}
+    ${word.description ? `<p><strong>Description:</strong> ${word.description}</p>` : ''}
   `;
   detailsDisplay.style.display = 'block';
   this.style.display = 'none';
