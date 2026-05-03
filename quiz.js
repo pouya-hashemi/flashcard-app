@@ -17,6 +17,18 @@ function populateBookOptions() {
   });
 }
 
+function populateLevelOptions() {
+  const levels = [...new Set(allWords.map(word => word.level).filter(level => level))].sort();
+  const levelFilter = document.getElementById('levelFilter');
+  levelFilter.innerHTML = '';
+  levels.forEach(level => {
+    const option = document.createElement('option');
+    option.value = level;
+    option.textContent = level;
+    levelFilter.appendChild(option);
+  });
+}
+
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -27,12 +39,12 @@ function shuffleArray(array) {
 
 function filterWords() {
   const selectedBooks = Array.from(document.getElementById('bookFilter').selectedOptions).map(option => option.value);
-  const selectedDifficulties = Array.from(document.getElementById('difficultyFilter').selectedOptions).map(option => option.value);
+  const selectedLevels = Array.from(document.getElementById('levelFilter').selectedOptions).map(option => option.value);
 
   filteredWords = allWords.filter(word => {
     const bookMatch = selectedBooks.length === 0 || selectedBooks.includes(word.book);
-    const difficultyMatch = selectedDifficulties.length === 0 || selectedDifficulties.includes(word.level);
-    return bookMatch && difficultyMatch;
+    const levelMatch = selectedLevels.length === 0 || selectedLevels.includes(word.level);
+    return bookMatch && levelMatch;
   });
 
   shuffledWords = shuffleArray([...filteredWords]);
@@ -104,7 +116,7 @@ document.getElementById('germanBtn').addEventListener('click', function() {
 });
 
 document.getElementById('bookFilter').addEventListener('change', filterWords);
-document.getElementById('difficultyFilter').addEventListener('change', filterWords);
+document.getElementById('levelFilter').addEventListener('change', filterWords);
 
 document.getElementById('revealBtn').addEventListener('click', function() {
   const word = shuffledWords[currentIndex];
@@ -157,3 +169,4 @@ document.getElementById('prevBtn').addEventListener('click', function() {
 });
 
 populateBookOptions();
+populateLevelOptions();
