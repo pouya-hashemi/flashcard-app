@@ -131,7 +131,7 @@
         "english": "The bus is comming now."
       }
     ],
-    "description": ""
+    "description": "Akusative"
   },
   {
     "id": 7,
@@ -236,7 +236,7 @@
     "level": "1",
     "difficultyLevel": "",
     "examples": [],
-    "description": ""
+    "description": "Akusative / Dativ"
   },
   {
     "id": 13,
@@ -247,12 +247,46 @@
     "plural": "",
     "feminine": "",
     "pastPerfect": "Hat geglaubt",
-    "conjugation": [],
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Glaube"
+      },
+      {
+        "person": 2,
+        "form": "Glaubst"
+      },
+      {
+        "person": 3,
+        "form": "Glaubt"
+      },
+      {
+        "person": 4,
+        "form": "Glauben"
+      },
+      {
+        "person": 5,
+        "form": "Glaubt"
+      },
+      {
+        "person": 6,
+        "form": "Glauben"
+      }
+    ],
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": [],
-    "description": ""
+    "examples": [
+      {
+        "german": "Ich Glaube dir",
+        "english": "I believe you"
+      },
+      {
+        "german": "Ich glaube an dich",
+        "english": ""
+      }
+    ],
+    "description": "\u002B an= akusa / dativ"
   },
   {
     "id": 14,
@@ -283,8 +317,21 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": [],
-    "description": ""
+    "examples": [
+      {
+        "german": "Er (Nom.) arbeitet als Lehrer (Nom.).",
+        "english": "He works as a teacher."
+      },
+      {
+        "german": "Ich kenne ihn (Akk.) besser als deinen Bruder (Akk.).",
+        "english": "I know him better than [I know] your brother"
+      },
+      {
+        "german": "Ich helfe dir (Dat.) eher als deinem Freund (Dat.).",
+        "english": "I\u0027m helping you rather than [helping] your friend."
+      }
+    ],
+    "description": "It mirrors the object it refers to. if the object is dativ or aku or nomi the Noun after als becomes the same"
   },
   {
     "id": 16,
@@ -299,8 +346,13 @@
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": [],
-    "description": ""
+    "examples": [
+      {
+        "german": "Ich bin seit drei Jahren verheiratet.",
+        "english": ""
+      }
+    ],
+    "description": "For duration use Seit instead of F\u00FCr"
   },
   {
     "id": 17,
@@ -505,8 +557,17 @@
     "book": "A1.1",
     "level": "3",
     "difficultyLevel": "",
-    "examples": [],
-    "description": ""
+    "examples": [
+      {
+        "german": "Er scpricht einen intressanten Dialekt",
+        "english": "He speaks an interesting dialect."
+      },
+      {
+        "german": "Ich spreche mit dir.",
+        "english": "I am soeaking with you."
+      }
+    ],
+    "description": "Akk. but to speak to some one you should use mit preposition"
   },
   {
     "id": 28,
@@ -517,11 +578,41 @@
     "plural": "",
     "feminine": "",
     "pastPerfect": "hat gelebt",
-    "conjugation": [],
+    "conjugation": [
+      {
+        "person": 1,
+        "form": "Lebe"
+      },
+      {
+        "person": 2,
+        "form": "Lebst"
+      },
+      {
+        "person": 3,
+        "form": "Lebt"
+      },
+      {
+        "person": 4,
+        "form": "Leben"
+      },
+      {
+        "person": 5,
+        "form": "Lebt"
+      },
+      {
+        "person": 6,
+        "form": "Leben"
+      }
+    ],
     "book": "A1.1",
     "level": "2",
     "difficultyLevel": "",
-    "examples": [],
+    "examples": [
+      {
+        "german": "Meine Frau und Ich leben zusammen",
+        "english": "My wife and I live together"
+      }
+    ],
     "description": ""
   },
   {
@@ -638,9 +729,13 @@
       {
         "german": "Ich habe meinen Schl\u00FCssel gefunden.",
         "english": "I found my keys."
+      },
+      {
+        "german": "Ich finde dir (Dat.) einen Parkplatz (Akk.)",
+        "english": "I\u0027ll find a parking spot for you"
       }
     ],
-    "description": ""
+    "description": "Akk and dativ / object is akk/ for who is dative. no F\u00FCr thou"
   },
   {
     "id": 34,
@@ -656,7 +751,7 @@
     "level": "4",
     "difficultyLevel": "",
     "examples": [],
-    "description": ""
+    "description": "dative"
   },
   {
     "id": 35,
@@ -1309,9 +1404,13 @@
       {
         "german": "Brauchst du etwas?",
         "english": "Do you need anything?"
+      },
+      {
+        "german": "Du brauchst das nicht zu machen.",
+        "english": "You don\u0027t need to do that."
       }
     ],
-    "description": ""
+    "description": "Akk . brauchen \u002B zu = to have to."
   },
   {
     "id": 72,
@@ -5128,7 +5227,7 @@
         "english": "I don\u0027t like listening to this podcast"
       }
     ],
-    "description": ""
+    "description": "Akusative - - - -zuh\u00F6ren -\u003E dativ"
   },
   {
     "id": 264,
@@ -5236,7 +5335,7 @@
         "english": "He tell the joke"
       }
     ],
-    "description": ""
+    "description": "Akusative / Dativ"
   },
   {
     "id": 266,
@@ -5340,7 +5439,7 @@
         "english": "He saw me."
       }
     ],
-    "description": ""
+    "description": "Akk"
   },
   {
     "id": 268,
@@ -5434,9 +5533,13 @@
       {
         "german": "Wie viel kostet der Tisch",
         "english": "How much does the Table Cost?"
+      },
+      {
+        "german": "Das kostet mich (Akk.) einen Euro (Akk.).",
+        "english": "It costs me one Euro"
       }
     ],
-    "description": ""
+    "description": "2 akk. the price and the person being charged."
   },
   {
     "id": 270,
@@ -8608,5 +8711,53 @@
     "difficultyLevel": "",
     "examples": [],
     "description": ""
+  },
+  {
+    "id": 394,
+    "german": "Seit",
+    "word_class": "preposition",
+    "article": "",
+    "english": "Since",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "2",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": "Always Dativ"
+  },
+  {
+    "id": 395,
+    "german": "Lied",
+    "word_class": "noun",
+    "article": "das",
+    "english": "Song",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "1",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 396,
+    "german": "kennen",
+    "word_class": "",
+    "article": "",
+    "english": "to know/to be familiar with",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "",
+    "level": "",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": "akk"
   }
 ]
