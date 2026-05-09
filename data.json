@@ -1175,8 +1175,17 @@
     "book": "A1.1",
     "level": "5",
     "difficultyLevel": "",
-    "examples": [],
-    "description": ""
+    "examples": [
+      {
+        "german": "Ich bekomme einen Brief (Akk.) von meiner Frau (Dat.).",
+        "english": "I am getting a letter from my wife"
+      },
+      {
+        "german": "Ich bekomme einen Brief",
+        "english": "(I\u0027m getting a letter.)"
+      }
+    ],
+    "description": "Always akk. from someone -\u003E use von -\u003E always dativ"
   },
   {
     "id": 60,
@@ -5589,7 +5598,7 @@
         "english": "She looks at my laptop."
       }
     ],
-    "description": ""
+    "description": "Akk"
   },
   {
     "id": 271,
@@ -5682,6 +5691,10 @@
       {
         "german": "Stimmt Das",
         "english": "Is that Correct"
+      },
+      {
+        "german": "Das stimm",
+        "english": "That is correct / I agree."
       }
     ],
     "description": ""
@@ -5730,7 +5743,7 @@
         "english": "I read comic for you"
       }
     ],
-    "description": ""
+    "description": "Akk"
   },
   {
     "id": 275,
@@ -5746,7 +5759,7 @@
     "level": "5",
     "difficultyLevel": "",
     "examples": [],
-    "description": ""
+    "description": "Akk"
   },
   {
     "id": 276,
@@ -8759,5 +8772,21 @@
     "difficultyLevel": "",
     "examples": [],
     "description": "akk"
+  },
+  {
+    "id": 397,
+    "german": "Von",
+    "word_class": "preposition",
+    "article": "",
+    "english": "From",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "5",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": "Always Dativ"
   }
 ]
