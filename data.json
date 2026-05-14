@@ -2520,7 +2520,7 @@
     "german": "nach",
     "word_class": "preposition",
     "article": "",
-    "english": "After",
+    "english": "After - to",
     "plural": "",
     "feminine": "",
     "pastPerfect": "",
@@ -2529,14 +2529,14 @@
     "level": "8",
     "difficultyLevel": "",
     "examples": [],
-    "description": ""
+    "description": "dative. used for dairection or time"
   },
   {
     "id": 112,
     "german": "noch",
-    "word_class": "preposition",
+    "word_class": "adverb",
     "article": "",
-    "english": "zet",
+    "english": "yet",
     "plural": "",
     "feminine": "",
     "pastPerfect": "",
@@ -2577,7 +2577,7 @@
     "level": "8",
     "difficultyLevel": "",
     "examples": [],
-    "description": ""
+    "description": "two way. movement akk - location/ position  dativ"
   },
   {
     "id": 115,
@@ -6214,8 +6214,13 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": [],
-    "description": ""
+    "examples": [
+      {
+        "german": "Ich meine den blauen Stuhl, nicht den roten.",
+        "english": "I mean the blue chair, not the red one."
+      }
+    ],
+    "description": "akk"
   },
   {
     "id": 295,
@@ -6255,8 +6260,13 @@
     "book": "A1.1",
     "level": "8",
     "difficultyLevel": "",
-    "examples": [],
-    "description": ""
+    "examples": [
+      {
+        "german": "Ich schlage dir einen Termin vor.",
+        "english": "I suggest a meeting/appointment to you."
+      }
+    ],
+    "description": "what you suggest is akkusative and who you are suggestiong it to is dative"
   },
   {
     "id": 296,
@@ -8773,15 +8783,15 @@
   {
     "id": 396,
     "german": "kennen",
-    "word_class": "",
+    "word_class": "verb",
     "article": "",
     "english": "to know/to be familiar with",
     "plural": "",
     "feminine": "",
     "pastPerfect": "",
     "conjugation": [],
-    "book": "",
-    "level": "",
+    "book": "A1.1",
+    "level": "1",
     "difficultyLevel": "",
     "examples": [],
     "description": "akk"
@@ -8835,6 +8845,64 @@
     "conjugation": [],
     "book": "A1.1",
     "level": "5",
+    "difficultyLevel": "",
+    "examples": [],
+    "description": ""
+  },
+  {
+    "id": 400,
+    "german": "Hilfen",
+    "word_class": "verb",
+    "article": "",
+    "english": "To help",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "7",
+    "difficultyLevel": "",
+    "examples": [
+      {
+        "german": "Kannst du mia helfen?",
+        "english": "Can you help me?"
+      }
+    ],
+    "description": "Dativ"
+  },
+  {
+    "id": 401,
+    "german": "Bei",
+    "word_class": "preposition",
+    "article": "",
+    "english": "with",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "7",
+    "difficultyLevel": "",
+    "examples": [
+      {
+        "german": "Kannst du mia beim(bei dem) Kochen hilfen?",
+        "english": "can you help me with cooking?"
+      }
+    ],
+    "description": "Dativ"
+  },
+  {
+    "id": 402,
+    "german": "fast nie",
+    "word_class": "adverb",
+    "article": "",
+    "english": "Almost never",
+    "plural": "",
+    "feminine": "",
+    "pastPerfect": "",
+    "conjugation": [],
+    "book": "A1.1",
+    "level": "7",
     "difficultyLevel": "",
     "examples": [],
     "description": ""
